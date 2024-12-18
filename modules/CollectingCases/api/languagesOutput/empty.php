@@ -1,0 +1,15 @@
+<?php
+$formText_Objection_output="";
+$formText_ObjectionWasAddedForCase="";
+$formText_Case_output="";
+$formText_Customer_output="";
+$formText_MessageFromDebitor="";
+$formText_ErrorSendingEmail_output="";
+$formText_NotDelivered_Output="";
+$formText_CollectingCaseStartedDate_output="";
+$formText_CollectingCompanyCaseNotStarted_output="";
+$formText_CollectingCaseClosed_output="";
+$formText_LastSentReminder_output="";
+$formText_ReminderNotSent_output="";
+$formText_CaseClosed_output="";
+?>

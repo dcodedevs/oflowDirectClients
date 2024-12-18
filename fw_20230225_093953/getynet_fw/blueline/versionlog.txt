@@ -1,0 +1,23 @@
+(8.06) 2018-01-08 ALI
+Changed logo to SVG format
+
+(8.05) 2017-09-19 ALI
+Added channels functionality
+
+(8.04) 2016-03-31 ALI
+Changed CSS and JS url to full path
+
+(8.03) 2015-08-11 ALI
+Moved user administration to other place
+
+(8.02) 2015-08-10 ALI
+Changed button style and added user administration button
+
+(8.01) 2015-05-06 ALI
+Updated account list
+
+(8.00) 2015-03-31 ALI
+Updated account list
+
+(7.30) 2015-01-05 ALI
+Starting logging version.

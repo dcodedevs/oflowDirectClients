@@ -1,0 +1,26 @@
+(8.06) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.05) 2016-10-26 ALI
+Fix level if parent is not specified
+
+(8.04) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.03) 2015-05-22 ALI
+Session fix
+
+(8.02) 2015-05-12 ALI
+Hidden field fix
+
+(8.01) 2015-05-11 ALI
+input type = text
+
+(8.00) 2015-03-20 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.04) 2014-10-02 ALI
+Fieldtype version update
+
+(6.01) 2011-07-05 ALI
+Added type.

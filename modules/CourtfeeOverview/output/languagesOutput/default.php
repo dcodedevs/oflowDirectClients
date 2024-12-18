@@ -1,0 +1,31 @@
+<?php
+$formText_CourtFeeInvoicedCreditorInvoiceNr_Output="Court fee invoiced creditor invoice nr";
+$formText_Cancel_Output="Cancel";
+$formText_Save_Output="Save";
+$formText_ErrorOccuredSavingContent_Output="Error occured saving content";
+$formText_YouMissed_validate="You missed";
+$formText_field_validate="Field";
+$formText_TheyHaveBeenHighlighted_validate="They have been highlighted";
+$formText_fields_validate="Fields";
+$formText_SelectTheCreditor_output="Select the creditor";
+$formText_SelectTheDebitor_output="Select the debitor";
+$formText_ReleaseDate_Output="Release date";
+$formText_NotReleased_output="Not released";
+$formText_Released_output="Released";
+$formText_InvoicingToCreditor_output="Invoicing to creditor";
+$formText_NotInvoiced_output="Not invoiced";
+$formText_Invoiced_output="Invoiced";
+$formText_CaseId_output="Case id";
+$formText_CreditorName_output="Creditor name";
+$formText_DebitorName_output="Debitor name";
+$formText_Type_output="Type";
+$formText_Amount_output="Amount";
+$formText_editInvoiceNr_output="Edit invoice nr";
+$formText_EditReleaseDate_output="Edit release date";
+$formText_TransactionsConnectedToTheProtectedCourtFee_output="Transactions connected to the protected court fee";
+$formText_Send="Send";
+$formText_UploadInProgress_output="Upload in progress";
+$formText_UpdatingAutomaticallyEachNight_output="Updating automatically each night";
+$formText_LastUpdate_output="Last update";
+$formText_FillEmptyCaseLimitationDates_Output="Fill empty case limitation dates";
+?>

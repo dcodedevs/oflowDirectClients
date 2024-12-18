@@ -1,0 +1,39 @@
+(8.04) 2017-06-14 ALI
+Removed files not in use
+
+(8.03) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.02) 2015-05-29 ALI
+Special character fix in input
+
+(8.01) 2015-05-22 ALI
+Session fix
+
+(8.00) 2015-03-25 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.032) 2014-10-02 ALI
+Fieldtype version update
+
+(7.031) 2013-11-19 ALI
+FIX: added comment user
+
+(7.03) 2013-11-13 ALI
+FIX: auto height on write.
+FIX: utf-8 encoding change
+CHG: show full text and remove mouseover functionality
+
+(7.02) 2013-09-18 ALI
+FIX: removed textarea height change on blur
+
+(7.01) 2013-08-15 ALI
+Updated AccessLevel handle
+
+(6.02) 2012-04-04 ALI
+In initial no comments field - should add by pressing 'Add'.
+Saved comments can be just removed, not editable.
+Removed time from displaying.
+
+(6.01) 2012-04-02 ALI
+Added type.

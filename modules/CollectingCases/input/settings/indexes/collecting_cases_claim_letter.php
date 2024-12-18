@@ -1,0 +1,3 @@
+<?php
+$sys_table_indexes = array('case_id:key:collecting_cases_claim_letter:case_id', 'step_id:key:collecting_cases_claim_letter:step_id', 'sending_status:key:collecting_cases_claim_letter:sending_status', 'company_case_id:key:collecting_cases_claim_letter:collecting_company_case_id', 'billing_report_id:key:collecting_cases_claim_letter:billing_report_id', 'fees_status:key:collecting_cases_claim_letter:fees_status', 'print_batch_code:key:collecting_cases_claim_letter:print_batch_code');
+?>

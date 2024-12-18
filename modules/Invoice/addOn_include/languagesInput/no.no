@@ -1,0 +1,5 @@
+<?php
+$formText_PleaseSetRoundingAccountInSettings_output_no="Konto for øresavrundinger må defineres i innstillinger modulen";
+$formText_Cancel_Output_no="Avbryt";
+$formText_Export_output_no="Eksporter fakturaer";
+?>

@@ -1,0 +1,63 @@
+(8.22) 2022-03-22 ALI
+Jquery 3.6.0 compatibility
+
+(8.21) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.20) 2016-10-25 ALI
+Secure DB connection
+
+(8.04) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.03) 2015-05-29 ALI
+Special character fix in input
+
+(8.02) 2015-05-22 ALI
+Session fix
+
+(8.01) 2015-05-14 ALI
+Window resize after fieldtype changes to fix FW layout
+
+(8.00) 2015-03-24 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.06) 2014-10-02 ALI
+Fieldtype version update
+
+(7.05) 2014-04-15 ALI
+Added GroupDropdownField functionality
+
+(7.04) 2013-11-27 ALI
+Added GroupCheckboxField functionality
+
+(7.03) 2013-11-15 ALI
+Fixed tag closing issue
+
+(7.02) 2013-08-15 ALI
+Updated AccessLevel handle
+
+(7.01) 2013-05-27 PSH
+Changed file coding from ISO to UTF-8
+
+(6.06) 2013-04-10 ALI
+Fixed styling (added br clear and replaced size attribute with style:width)
+
+(6.05) 2012-04-04 ALI
+Changed separator for fields num from ';' to (sun) symbol
+
+(6.04) 2012-04-01 ALI
+Removed count of items in group field in DB (left just item ids)
+Added field hidding option
+Added field readonly option
+Changed styling
+Changed separator for fields from ';' to (sun) symbol
+
+(6.03) 2012-02-06 ALI
+Removed version for jquery
+
+(6.02) 2012-02-01 ALI
+Fixed group numbering adding more than one item at once.
+
+(6.01) 2011-12-13 ALI
+Added type.

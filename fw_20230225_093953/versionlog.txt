@@ -1,0 +1,192 @@
+(8.238) 2018-08-10 ALI
+Added extended content access functionality
+
+(8.237) 2018-05-15 ALI
+Fixed user kick-out after access removal
+
+...
+
+(8.235) 2018-03-15 ALI
+Fixed show contactlist and activate channel admin correct detection
+
+...
+
+(8.231) 2018-02-09 ALI
+Channel functionality changes 2
+
+(8.230) 2018-02-06 ALI
+Channel functionality changes
+
+(8.229) 2018-02-05 ALI
+Menu layout changes
+
+(8.228) 2018-01-31 ALI
+Statistic activation changed
+
+(8.227) BO....
+
+(8.226) 2018-01-29 ALI
+Updates on Channel functionality in popup
+
+(8.225) 2018-01-24 RA
+Option to connect FrameworkSettings to groups (properties, buildings, etc) to display individual logo for each group
+
+(8.224) 2018-01-16 ALI
+Updated language files
+
+(8.223) 2018-01-16 ALI
+Fixed cached menu access saving
+
+(8.222) 2018-01-11 ALI
+Design updates
+
+(8.221) 2018-01-10 ALI
+Updates in frameworksettings and ajax-loader changed
+
+(8.220) 2018-01-08 ALI
+Added main company functionality
+
+(8.219) 2018-01-04 ALI
+Improved performance for connecting account.
+
+(8.218) 2018-01-03 ALI
+Added Extra mode and disabled Designer mode.
+
+(8.217) 2018-01-02 ALI
+Added in FrameworkSettings basisconfig and updated Framework
+
+(8.215) 2017-10-20 BO
+fixed issue with allowScroll class not working for scrollbar
+
+(8.214) 2017-09-27 ALI
+Changed group access editing for multiple accounts in same time
+Allowed System_admin access editing only for similar user.
+
+(8.213) 2017-09-22 ALI
+Updates in channel functionality (user access)
+
+(8.212) 2017-09-19 ALI
+Channel functionality added in Chat
+
+(8.211) 2017-08-01 ALI
+Channel functionality added in user admin
+
+...
+
+(8.207) 2017-07-24 ALI
+Admin and System admin functionality changes
+
+(8.206) 2017-07-20 ALI
+Updates for module menu - "show after module" and "local module name"
+
+(8.203) 2017-03-16 BO
+Updates in column scrollbar
+
+(8.202) 2016-11-04 ALI
+Brand logo updates
+
+(8.201) 2016-11-04 ALI
+Fixed session_framework table create
+
+(8.200) 2016-10-26 ALI
+Secure DB connection
+
+(8.134) 2016-09-20 ALI
+Changed to secured urls
+Cleaned Chat, OnlineList, Users and not necessary Getynet modules.
+
+(8.133) 2016-08-09 ALI
+Added owner access also for group access
+
+(8.132) 2016-06-27 ALI
+Changes in show_owner_access_restrict.
+Account list popup close button.
+Logout helper text.
+
+(8.131) 2016-06-27 RA
+Responsive mobile/tablet size improvements
+
+(8.130) 2016-06-22 ALI
+User administration updates with getting external account module list
+
+(8.129) 2016-06-22 RA
+Responsiveness updates
+
+(8.128) 2016-06-22 ALI
+Changes in account module list by ajax
+New feature - Ddbug all requests
+
+(8.127) 2016-06-21 RA
+Contact list improved, first letter of firstname and lastname is showed instead of picture when profile picture is not available. Language variables for blueline "My Contacts" added.
+
+(8.126) 2016-06-20 ALI, RA
+Module menu updates - local account settings on deactivate
+Chat "file send" feature added.
+
+(8.125) 2016-06-17 RA
+Chat "send" button added. Chat "send on enter" checkbox added. More visible notification in blueline implemented. Language variables implemented.
+
+(8.124) 2016-06-14 RA
+Fix recent chat list
+
+(8.123) 2016-05-31 ALI
+CSS update - module head moved on more on top
+
+(8.122) 2016-05-19 ALI
+Moved setting $variables parameters to main index file
+
+(8.121) 2016-06-07 RA
+CSS updates for module list menu
+
+(8.120) 2016-06-07 ALI
+Fixed CSS load for other outputs than default
+
+(8.119) 2016-03-31 ALI
+Changed CSS and JS url to full path
+Removed SESSION usage from session reload
+New - Upgrade notification
+
+(8.118) 2016-03-30 RA
+RA: Fixed FW crash in IE11 because of undeclared variable.
+
+(8.117) 2016-03-23 ALI
+Retrieve account module list by ajax.
+NIKO: In IE there was some glitch with logout (split index.php in index_main.php)
+
+(8.116) 2016-02-11 RA
+Error log warning message fix.
+
+(8.115) 2016-02-04 ALI
+fwbaseurl removal fix
+
+(8.114) 2016-02-01 RA
+Chat updates
+
+(8.113) 2016-01-22 ALI
+Fixed CSS naming of edit page group columns
+
+(8.112) 2016-01-21 RA
+Bug with column sizing that affects Firefox (Mac) in some rare cases fixed (-1px). Chat responsive layout created
+
+(8.111) 2016-01-15 RA
+Framework updates for better mobile support (responsive fixes). Most of changes done to menu output_javascript.php, layout/layout.css, blueline and onlinelist.
+
+(8.110) 2016-01-07 RAR
+Added expand/collapse delay for contactlist when hovered.
+Chat box height and scroll issues fixed.
+Unread threads made more visible (bold) in recents list.
+
+(8.109) 2015-12-30 ALI
+Changes in system log functionality
+FW menu changes
+Admin mode
+Admin menu
+
+(8.108) 2015-12-29 ALI
+Added system log functionality
+
+(8.107) 2015-12-22 RAR
+Owner access feature implement
+
+(8.106) 2015-12-18 ALI
+Owner access feature implement

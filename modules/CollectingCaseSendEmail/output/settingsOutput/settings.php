@@ -1,0 +1,3 @@
+<?php
+$showGroupToAdmin = "1";
+?>

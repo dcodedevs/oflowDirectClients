@@ -1,0 +1,11 @@
+(8.23) 2018-03-15 ALI
+Fixed activate channel admin feature
+
+(8.22) 2018-01-08 ALI
+Added functionality from which company message is sent
+
+(8.21) 2017-09-19 ALI
+Added channels functionality
+
+(8.20) 2016-10-14 ALI
+Secured DB connection

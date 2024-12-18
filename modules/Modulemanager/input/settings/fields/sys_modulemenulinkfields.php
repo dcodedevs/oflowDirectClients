@@ -1,0 +1,3 @@
+<?php
+$prefields = array("id¤id¤{$formText_id_settings}¤sys_modulemenulink¤ID¤¤¤¤¤1¤0¤0¤0¤0¤0¤¤¤¤¤","sortnr¤sortnr¤{$formText_orderNumber_settings}¤sys_modulemenulink¤OrderNr¤¤¤¤¤1¤0¤¤1¤1¤0¤¤¤¤¤","content_status¤sys_modulemenulinkcontent_status¤{$formText_ContentStatus_input}¤sys_modulemenulink¤ContentStatus¤¤¤¤¤1¤0¤¤1¤1¤0¤¤¤¤¤","group_id¤sys_modulemenulinkgroup_id¤{$formText_GroupId_accounts}¤sys_modulemenulink¤ID¤¤¤¤¤1¤0¤¤1¤1¤0¤0¤¤¤¤","module_name¤sys_modulemenulinkmodule_name¤{$formText_ModuleName_accounts}¤sys_modulemenulink¤Textfield¤¤¤¤¤0¤0¤¤1¤1¤0¤0¤¤¤¤");
+?>

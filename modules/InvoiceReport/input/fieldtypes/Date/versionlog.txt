@@ -1,0 +1,51 @@
+(8.21) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.20) 2016-10-25 ALI
+Secure DB connection
+
+(8.05) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.04) 2015-0810 ALI
+Button added - clear date to 00.00.0000
+
+(8.03) 2015-05-29 ALI
+Special character fix in input
+
+(8.02) 2015-05-22 ALI
+Session fix
+
+(8.01) 2015-05-21 ALI
+Fixed date saving
+
+(8.00) 2015-03-25 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.05) 2014-10-02 ALI
+Fieldtype version update
+
+(7.04) 2013-11-13 ALI
+FIX: input not editable, just pickable from popup
+
+(7.03) 2013-09-18 ALI
+FIX: mandatory checking, removed default set to 00.00.0000
+
+(7.02) 2013-09-13 ALI
+Changed datepicker config to change year and month from dropdown
+http://jqueryui.com/datepicker/#dropdown-month-year
+
+(7.01) 2013-08-15 ALI
+Updated AccessLevel handle
+
+(6.04) 2012-10-16 ALI
+Fixed the ID attribute for input (removed ending "_id")
+
+(6.03) 2012-06-19 ALI
+Changed to jquery
+
+(6.02) ?
+?
+
+(6.01) 2011-07-05 ALI
+Added type.

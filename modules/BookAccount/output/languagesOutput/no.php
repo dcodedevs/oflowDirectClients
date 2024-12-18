@@ -1,0 +1,31 @@
+<?php
+$formText_PleaseSelectSet_output="Velg";
+$formText_MissingFieldsPleseFillInAllFields_output="Alle felter må fylles ut";
+$formText_EditBookaccount_output="Rediger bokføringskonto";
+$formText_AddBookaccount_output="Legg til bokføringskonto";
+$formText_Name_Output="Navn";
+$formText_AccountNr_Output="Kontonr";
+$formText_Cancel_Output="Avbryt";
+$formText_Save_Output="Lagre";
+$formText_ErrorOccuredSavingContent_Output="En feil oppstod under lagring";
+$formText_YouMissed_validate="Det mangler";
+$formText_field_validate="felt";
+$formText_TheyHaveBeenHighlighted_validate="De er markert";
+$formText_fields_validate="felter";
+$formText_SelectTheCustomer_output="Velg kunde";
+$formText_SelectResponsiblePerson_output="Velg ansvarlig person";
+$formText_SelectInvoiceResponsible_output="Velg";
+$formText_Created_output="Opprettet";
+$formText_Name_output="Navn";
+$formText_BookaccountNr_output="Bokføring kontonr";
+$formText_Showing_Output="Viser";
+$formText_Of_output="av";
+$formText_ShowMore_output="Vis mer";
+$formText_ConfirmDelete_Output="Ønsker du å slette";
+$formText_Yes_Output="Ja";
+$formText_No_Output="Nei";
+$formText_AddNewBookaccount_Output="Legg til bokføringskonto";
+$formText_CompanyProductSet_output="Firma produktsett";
+$formText_ChooseSet_output="Velg sett";
+$formText_Default_output="Bruk standardvalg";
+?>

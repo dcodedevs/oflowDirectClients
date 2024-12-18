@@ -1,0 +1,38 @@
+(8.05) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.04) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.03) 2015-09-04 ALI
+Removed form-control class to not break UI
+
+(8.02) 2015-05-29 ALI
+Special character fix in input
+
+(8.01) 2015-05-22 ALI
+Session fix
+
+(8.00) 2015-03-26 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.04) 2014-10-02 ALI
+Fieldtype version update
+
+(7.03) 2013-08-15 ALI
+Updated AccessLevel handle
+
+(7.02) 2013-06-14 ALI
+Fixed last fix.
+
+(7.01) 2013-05-27 PSH
+Changed contentreg.php to handle readonly data
+ 
+(6.03) 2012-10-10 ALI
+Fixed floating problem
+
+(6.02) ?
+?
+
+(6.01) 2011-07-05 ALI
+Added type.

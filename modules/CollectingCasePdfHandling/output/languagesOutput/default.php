@@ -1,0 +1,32 @@
+<?php
+$formText_YouHaveNoAccess_Output="You have no access";
+$formText_InvoicesNotFound_Output="Invoices not found";
+$formText_NoPdfCreated_output="No pdf created";
+$formText_Date_output="Date";
+$formText_Creditor_output="Creditor";
+$formText_Debitor_output="Debitor";
+$formText_Pdf_output="Pdf";
+$formText_PdfCounts_output="Pdf counts";
+$formText_PreviewPdf_output="Preview pdf";
+$formText_DownloadAllPdf_output="Download all pdf";
+$formText_Showing_Output="Showing";
+$formText_Of_output="Of";
+$formText_ShowMore_output="Show more";
+$formText_LaunchPdfGenerateScript_output="Launch pdf generate script";
+$formText_ProcessActions_output="Process actions";
+$formText_NoUpdate_output="No update";
+$formText_Reminder_output="Reminder";
+$formText_DebtCollectionWarning_output="Debt collection warning";
+$formText_PaymentEncouragement_output="Payment encouragement";
+$formText_HeavyFeeWarning_output="Heavy fee warning";
+$formText_LastWarningBeforeLegalAction_output="Last warning before legal action";
+$formText_LegalAction_output="Legal action";
+$formText_BackToList_outpup="Back to list";
+$formText_BatchId_output="Batch id";
+$formText_pdf_output="Pdf";
+$formText_ConfirmDelete_output="Confirm delete";
+$formText_AddEditProcessSteps_Output="Add edit process steps";
+$formText_NotPrinted_output="Not printed";
+$formText_PrintedToday_output="Printed today";
+$formText_PrintedEarlier_output="Printed earlier";
+?>

@@ -1,0 +1,127 @@
+(8.23) 2017-06-15 ALI
+Removed files which are not in use.
+Updates regarding list url (added back list before menu name with translation)
+
+(8.22) 2017-05-26 ALI
+Updates regarding list url (removed "list" at the end)
+
+(8.21) 2017-02-06 ALI
+Fixed get_menulevel_parrents function
+
+(8.20) 2016-10-25 ALI
+Secure DB connection
+
+(8.10) 2016-05-23 ALI
+Update - always add list url for menupoint
+
+(8.09) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.08) 2015-10-27 ALI
+Fix for multiple menupoint select (uniqueness)
+
+(8.07) 2015-10-22 ALI
+Added seo url split in parts
+
+(8.06) 2015-10-14 ALI
+Added $content_status functionality
+
+(8.05) 2015-08-11 ALI
+pageIDlist update fix
+
+(8.04) 2015-06-11 ALI
+Added new functionality for list url - pageIDlist
+
+(8.03) 2015-05-29 ALI
+Special character fix in input
+
+(8.02) 2015-05-22 ALI
+Session fix
+
+(8.01) 2015-05-20 ALI
+Fixed function get_menulevel_parrents
+
+(8.00) 2015-03-20 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.311) 2015-03-12 ALI
+Fix: convert url to lowercase
+
+(7.310) 2015-02-16 ALI
+Fix: Do not allow to store empty URL
+
+(7.309) 2014-12-05 ALI
+Updated table of special chars (missing in Russion and was incorrect translation for Latvian)
+
+(7.308) 2014-11-29 ALI
+Fixed SEO data fill for menu-points (insert)
+
+(7.307) 2014-11-29 ALI
+Fixed SEO data fill for menu-points
+
+(7.306) 2014-11-28 ALI
+Removed UTF-8 characters from URL - will use old replacement system - its stable and safe!!!
+TRUNCATE sys_htaccess
+Added SEO data fill for menu-points
+
+(7.305) 2014-11-20 ALI
+Fixed: strtolower -> mb_strtolower($str, 'UTF-8');
+
+(7.304) 2014-11-10 ALI
+Fixed: add htaccess row also when there is not selected menu point.
+
+(7.303) 2014-10-02 ALI
+Fieldtype version update
+
+(7.302) 2014-09-02 ALI
+Fixed sys_htaccess table create if not exist
+
+(7.301) 2014-08-13 ALI
+Fix: make sys_htaccess urls for content which are not assigned to menu (menulevelID = 0)
+
+(7.300) 2014-07-29 ALI
+Fixed trailing / char remove in sys_htaccess
+
+(7.186) 2014-07-03 ALI
+Updated duplicate word checking only if levelname is not empty
+
+(7.185) 2014-06-27 ALI
+Allow special characters in url
+
+(7.184) 2014-06-17 ALI
+Moved htaccess file to DB
+
+(7.183) 2014-06-17 ALI
+fixed empty content link saving
+
+(7.182) 2014-06-04 ALI
+seo feature update
+
+(7.181) 2014-04-07 ALI
+seotitle seodescription and seourl update
+
+(7.18) 2014-02-12 ALI
+Added error handling for .htaccess file saving. also backup file making.
+
+(7.17) ?
+
+(7.16) 2013-08-28 ALI
+Updated with faster htaccess file update
+
+(7.16) 2013-08-15 ALI
+Updated AccessLevel handle
+
+(7.154) 2013-04-23 ALI
+Fixed $doMultiLanguage detection
+
+(7.153) 2013-04-10 ALI
+Added uppercase convertion
+
+(7.152) 2013-04-05 ALI
+Added addParents function
+
+(7.151) 2013-03-19 ALI
+Updated files to utf-8 to handle character conversion
+
+(7.15) 2013-03-10 ALI
+Added type.

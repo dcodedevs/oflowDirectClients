@@ -1,0 +1,31 @@
+<?php
+$formText_ErrorOccurredHandlingRequest_Output="Error occurred handling request";
+$formText_NextRun_Output="Next run";
+$formText_Cancel_Output="Cancel";
+$formText_Save_Output="Save";
+$formText_ErrorOccuredSavingContent_Output="Error occured saving content";
+$formText_YouMissed_validate="You missed";
+$formText_field_validate="Field";
+$formText_TheyHaveBeenHighlighted_validate="They have been highlighted";
+$formText_fields_validate="Fields";
+$formText_AvailableAutoTasks_Output="Available auto tasks";
+$formText_Add_Output="Add";
+$formText_Idle_Output="Idle";
+$formText_Queue_Output="Queue";
+$formText_Running_Output="Running";
+$formText_Stopped_Output="Stopped";
+$formText_LastRun_Output="Last run";
+$formText_Status_Output="Status";
+$formText_Edit_Output="Edit";
+$formText_Delete_Output="Delete";
+$formText_AreYouSureYouWantToDeleteItem_output="Are you sure you want to delete item";
+$formText_AddNew_Output="Add new";
+$formText_ActiveOrders_output="Active orders";
+$formText_OnHoldOrders_output="On hold orders";
+$formText_DeliveredOrders_output="Delivered orders";
+$formText_FinishedOrders_output="Finished orders";
+$formText_DeletedProjectOrders_output="Deleted project orders";
+$formText_ResponsiblePerson_output="Responsible person";
+$formText_All_output="All";
+$formText_Search_output="Search";
+?>

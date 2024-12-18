@@ -1,0 +1,5 @@
+(8.200) 2016-10-25 ALI
+Secure DB connection
+
+(8.00) 2015-12-30 ALI
+Initial version

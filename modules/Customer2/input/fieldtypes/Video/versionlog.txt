@@ -1,0 +1,19 @@
+(8.27) 2022-03-22 ALI
+Jquery 3.6.0 compatibility
+
+(8.25) 2020-05-25 ALI
+Fix delete with special characters
+
+(8.24) 2020-02-25 ALI
+Set sequentialUploads and waiting message while uploading
+
+(8.23) 2019-07-08 ALI
+Implemented back-compatibility
+
+(8.22) 2019-07-28 ALI
+Content saving moved to CDN server
+
+...
+
+(8.20) 2019-04-01 BO
+Initial fieldtype

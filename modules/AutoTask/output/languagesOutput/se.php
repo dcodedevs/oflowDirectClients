@@ -1,0 +1,31 @@
+<?php
+$formText_ErrorOccurredHandlingRequest_Output="Ett fel uppstod ";
+$formText_NextRun_Output="Nästa körning ";
+$formText_Cancel_Output="Avbryt";
+$formText_Save_Output="Spara";
+$formText_ErrorOccuredSavingContent_Output="Ett fel uppstod under sparringen";
+$formText_YouMissed_validate="Det fattas";
+$formText_field_validate="fält";
+$formText_TheyHaveBeenHighlighted_validate="De är markerat";
+$formText_fields_validate="Fält";
+$formText_AvailableAutoTasks_Output="Tillgänglig atuotasks";
+$formText_Add_Output="Lägg till";
+$formText_Idle_Output="Overksam";
+$formText_Queue_Output="Kö";
+$formText_Running_Output="Körer ";
+$formText_Stopped_Output="Stoppat";
+$formText_LastRun_Output="Sista körning ";
+$formText_Status_Output="Status";
+$formText_Edit_Output="Redigera";
+$formText_Delete_Output="Radera";
+$formText_AreYouSureYouWantToDeleteItem_output="Önskar du att ta bort ";
+$formText_AddNew_Output="Lägg till";
+$formText_ActiveOrders_output="Aktiva order";
+$formText_OnHoldOrders_output="Repeterande order på paus ";
+$formText_DeliveredOrders_output="Levrade order  ";
+$formText_FinishedOrders_output="Färdiga order  ";
+$formText_DeletedProjectOrders_output="Borttagna projekt order ";
+$formText_ResponsiblePerson_output="Ansvarig person ";
+$formText_All_output="Alla ";
+$formText_Search_output="Sök";
+?>

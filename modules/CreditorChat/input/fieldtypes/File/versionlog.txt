@@ -1,0 +1,101 @@
+(10.05) 2023-06-27 ALI
+Fixed back compatibility for storage and protected files
+
+(10.04) 2023-06-20 ALI
+CDN server storage and protected file fix
+
+(10.03) 2023-05-30 ALI
+CDN server functionality fixes
+
+(10.02) 2023-01-24 ALI
+Back-compatibility changes
+
+(10.01) 2023-01-05 ALI
+Multi-tenant account updates
+
+(8.34) 2022-04-06 ALI
+Fixed functionality when uploading file with space in front
+
+(8.33) 2022-03-22 ALI
+Jquery 3.6.0 compatibility
+
+(8.32) 2020-05-25 ALI
+Fix delete with special characters
+
+(8.31) 2020-02-25 ALI
+Set sequentialUploads and waiting message while uploading
+
+(8.30) 2019-07-08 ALI
+Implemented back-compatibility
+
+(8.29) 2019-07-27 ALI
+Content saving moved to CDN server
+
+(8.28) 2019-07-01 ALI
+Changed DB type from TEXT to LONGTEXT to allow upload more than 50 items
+
+(8.27) 2019-06-05 ALI
+Small UI and functionality changes
+
+(8.26) 2019-05-29 ALI
+Major UI and functionality changes
+
+(8.25) 2017-11-14 ALI
+Extended maximum execution time when large files are handled
+
+(8.24) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.23) 2016-11-14 ALI
+Rollback field/table protect_identifiers to escape_name
+
+(8.22) 2016-11-11 ALI
+Fixed DB query
+
+(8.21) 2016-11-04 ALI
+Replaced field/table escape to protect_identifiers
+
+(8.20) 2016-10-25 ALI
+Secure DB connection
+
+(8.13) 2016-09-27 ALI
+Fixed special character issue in name
+
+(8.12) 2016-07-18 ALI
+Fixed delete button perform on dynamic load
+
+(8.11) 2016-05-19 ALI
+Fixed class_UploadHandler for filename detection if first char is specific
+
+(8.10) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.09) 2015-12-15 ALI
+Remove original file fix
+
+(8.08) 2015-12-14 ALI
+Remove original file also from DB
+
+(8.07) 2015-12-10 ALI
+Remove original file settings
+
+(8.06) 2015-12-02 ALI
+Contentreg translation workaround
+
+(8.05) 2015-09-04 ALI
+Added item sorting functionality
+
+(8.04) 2015-08-24 ALI
+Changed button size
+
+(8.03) 2015-08-12 ALI
+Changed error message fieldtype upload limit
+
+(8.02) 2015-05-29 ALI
+Special character fix in input
+
+(8.01) 2015-05-28 ALI
+Fixed old file re-savings
+
+(8.00) 2015-05-25 ALI
+Fieldtype created

@@ -1,0 +1,3 @@
+<?php
+$sys_table_indexes = array('invoiceNumber:key:customer_collectingorder:invoiceNumber', 'contactpersonId:key:customer_collectingorder:contactpersonId', 'customerId:key:customer_collectingorder:customerId', 'projectId:key:customer_collectingorder:projectId', 'project2Id:key:customer_collectingorder:project2Id', 'project3Id:key:customer_collectingorder:project3Id', 'project2PeriodId:key:customer_collectingorder:project2PeriodId');
+?>

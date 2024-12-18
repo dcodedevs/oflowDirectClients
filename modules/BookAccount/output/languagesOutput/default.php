@@ -1,0 +1,31 @@
+<?php
+$formText_PleaseSelectSet_output="Please select set";
+$formText_MissingFieldsPleseFillInAllFields_output="Missing fields plese fill in all fields";
+$formText_EditBookaccount_output="Edit bookaccount";
+$formText_AddBookaccount_output="Add bookaccount";
+$formText_Name_Output="Name";
+$formText_AccountNr_Output="Account nr";
+$formText_Cancel_Output="Cancel";
+$formText_Save_Output="Save";
+$formText_ErrorOccuredSavingContent_Output="Error occured saving content";
+$formText_YouMissed_validate="You missed";
+$formText_field_validate="Field";
+$formText_TheyHaveBeenHighlighted_validate="They have been highlighted";
+$formText_fields_validate="Fields";
+$formText_SelectTheCustomer_output="Select the customer";
+$formText_SelectResponsiblePerson_output="Select responsible person";
+$formText_SelectInvoiceResponsible_output="Select invoice responsible";
+$formText_Created_output="Created";
+$formText_Name_output="Name";
+$formText_BookaccountNr_output="Bookaccount nr";
+$formText_Showing_Output="Showing";
+$formText_Of_output="Of";
+$formText_ShowMore_output="Show more";
+$formText_ConfirmDelete_Output="Confirm delete";
+$formText_Yes_Output="Yes";
+$formText_No_Output="No";
+$formText_AddNewBookaccount_Output="Add new bookaccount";
+$formText_Default_output="Default";
+$formText_CompanyProductSet_output="Company product set";
+$formText_ChooseSet_output="Choose set";
+?>

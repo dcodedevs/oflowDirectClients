@@ -1,0 +1,30 @@
+<?php
+$formText_MissingName_output="Missing name";
+$formText_ParentColumn_Output="Parent column";
+$formText_Select_output="Select";
+$formText_SubTableName_Output="Sub table name";
+$formText_SubTableFieldForParentConnection_Output="Sub table field for parent connection";
+$formText_SubTableFieldNameToDisplayInMainTable_Output="Sub table field name to display in main table";
+$formText_Cancel_Output="Cancel";
+$formText_Save_Output="Save";
+$formText_ErrorOccuredSavingContent_Output="Error occured saving content";
+$formText_YouMissed_validate="You missed";
+$formText_field_validate="Field";
+$formText_TheyHaveBeenHighlighted_validate="They have been highlighted";
+$formText_fields_validate="Fields";
+$formText_SelectTheCreditor_output="Select the creditor";
+$formText_SelectTheDebitor_output="Select the debitor";
+$formText_TableName_Output="Table name";
+$formText_SelectInvoiceResponsible_Output="Select invoice responsible";
+$formText_AddTable_Output="Add table";
+$formText_Fields_output="Fields";
+$formText_Export_output="Export";
+$formText_AddSubTable_output="Add sub table";
+$formText_ChooseFields_output="Choose fields";
+$formText_SelectAll_output="Select all";
+$formText_ConfirmDelete_output="Confirm delete";
+$formText_SearchForProject_output="Search for project";
+$formText_Search_output="Search";
+$formText_InSelection_output="In selection";
+$formText_Reset_output="Reset";
+?>

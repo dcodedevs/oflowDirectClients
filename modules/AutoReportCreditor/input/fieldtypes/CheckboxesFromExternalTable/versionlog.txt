@@ -1,0 +1,59 @@
+(10.02) 2023-01-24 ALI
+Back-compatibility changes
+
+(10.01) 2023-01-05 ALI
+Multi-tenant account updates
+
+(8.25) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.24) 2017-02-20 ALI
+Multi-lang select fix
+
+(8.23) 2017-01-04 ALI
+Check if multi-lang table exists before field check
+
+(8.22) 2016-11-14 ALI
+Rollback field/table protect_identifiers to escape_name
+
+(8.21) 2016-11-04 ALI
+Replaced field/table escape to protect_identifiers
+
+(8.20) 2016-10-25 ALI
+Secure DB connection
+
+(8.05) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.04) 2015-10-15 ALI
+Added $content_status functionality
+
+(8.03) 2015-10-09 ALI
+Added $s_default_output_language variable and used it for lists
+
+(8.02) 2015-05-29 ALI
+Special character fix in input
+
+(8.01) 2015-05-22 ALI
+Session fix
+
+(8.00) 2015-03-26 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.06) 2014-11-13 ALI
+Allow multi-language external table
+
+(7.05) 2014-10-02 ALI
+Fieldtype version update
+
+(7.04) 2014-06-30 ALI
+Comment rename in code
+
+(7.03) 2014-05-06 ALI
+Updated features
+
+(7.02) 2014-04-08 ALI
+Added Tree feature
+
+(7.01) 2013-11-13 ALI
+Added type.

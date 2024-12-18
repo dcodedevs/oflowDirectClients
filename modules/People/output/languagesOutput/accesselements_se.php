@@ -1,0 +1,16 @@
+<?php
+$accessElementAllow_AddEditDeletePeople_name="";
+$accessElementAllow_AddEditDeletePeople_description="";
+$accessElementAllow_EditPersonNumber_name="";
+$accessElementAllow_EditPersonNumber_description="";
+$accessElementAllow_GiveRemoveAccessPeople_name="";
+$accessElementAllow_GiveRemoveAccessPeople_description="";
+$accessElementAllow_SendFilesToSignant_name="";
+$accessElementAllow_SendFilesToSignant_description="";
+$accessElementAllow_ViewDepartments_name="";
+$accessElementAllow_ViewDepartments_description="";
+$accessElementAllow_ExportPeople_name="";
+$accessElementAllow_ExportPeople_description="";
+$accessElementAllow_ReadAllTagsAndGroups_name="";
+$accessElementAllow_ReadAllTagsAndGroups_description="";
+?>

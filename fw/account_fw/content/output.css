@@ -1,0 +1,534 @@
+.hide {
+	display:none;
+}
+#textarea {
+	padding-left:40px;
+	padding-top:20px;
+	padding-bottom:40px;
+}
+.loginbox {
+	background-image:url("../../../elementsGlobal/loginbox.png");
+	background-repeat:no-repeat;
+	height:154px;
+	width:761px;
+}
+#brukerform {
+	position:relative;
+	width:535px;
+	height:47px;
+	background-image:url(passbak.jpg);
+	margin-left:auto;
+	margin-right:auto;
+	top:45px;
+}
+#brukerform input {
+	border:none;
+	width:250px;
+	height:29px;
+	line-height:29px;
+	position:absolute;
+}
+
+.content_buttons {
+	padding:10px 0;
+}
+.content_buttons .content_button {
+	background:#0095E4;
+	border:none;
+	padding:10px 14px;
+	margin:0 10px 0 0;
+	min-width:120px;
+	text-align:center;
+	cursor:pointer;
+}
+.content_buttons .content_button.local {
+	background-color:#f4edd3;
+	border:1px solid #e3dabb;
+}
+.content_buttons .content_button, .content_buttons .content_button a {
+	font-size:12px;
+	font-weight:bold;
+	color:#dddddd;
+	text-decoration:none
+}
+.content_buttons .content_button.local, .content_buttons .content_button.local a {
+	color:#938e7b;
+}
+.content_buttons .content_button:hover, .content_buttons .content_button:hover a {
+	color:#ffffff;
+}
+.content-toggler {
+	float:right;
+}
+.content-toggler img {
+	height:15px;
+	padding:1px 0;
+	cursor:pointer;
+	margin:0 5px;
+	vertical-align:top;
+}
+.edit_form {
+	padding:0;
+	margin:0;
+}
+.edit_field_container {
+}
+.edit_field_container .edit_block {
+	margin:10px 0;
+	padding:5px;
+	border:1px dashed #cccccc;
+}
+.edit_field_container .edit_block .header {
+	font-size:14px;
+	font-weight:bold;
+	color:#333333;
+	text-transform:uppercase;
+}
+.edit_field_container .edit_block .edit_fields {
+	background-color:#fafafa;
+	border:1px solid #bbbbbb;
+	padding:15px;
+}
+.edit_field_container .edit_group {
+	padding:5px 0;
+}
+.edit_field_container .edit_group .edit_field {
+	float:left;
+	width:100%;
+}
+.edit_field_container .edit_field .error {
+    border:1px solid red;
+}
+.edit_field_container .edit_group.edit_group_col2 .edit_field {
+	width:49%;
+	margin-right:1%;
+}
+.edit_field_container .edit_group.edit_group_col2 .edit_field:nth-child(even) {
+	margin-left:1%;
+	margin-right:0;
+}
+.edit_field_container .edit_group.edit_group_col3 .edit_field {
+	width:32.3%;
+	margin-right:1%;
+}
+.edit_field_container .edit_group.edit_group_col4 .edit_field {
+	width:24%;
+	margin-right:1%;
+}
+.edit_field_container .edit_field ul.nav-tabs {
+	border-bottom:none;
+	margin-bottom:1px;
+}
+.edit_field_container .edit_field ul.nav-tabs li a {
+	padding:5px;
+}
+
+.form_container {
+}
+.form_container .subcontent {
+	margin:10px 0;
+	padding:5px;
+	border:1px dashed #dcdcdc/*46b2e2*/;
+	background-color:#dcdcdc;
+}
+.subcontent .header {
+	font-size:16px;
+	font-weight:bold;
+	text-transform:uppercase;
+	color:#444444;
+}
+.subcontent .header a {
+	color:#444444;
+}
+.form_container .input_list_item, .form_container .input_list_item a {
+	color:#444444;
+}
+.form_container .subcontent-list {
+	padding:10px 0;
+}
+.form_container .subcontent .module_customized, .form_container .subcontent .modulecontent.new {
+	margin:5px 0;
+}
+.buttonrow {
+	position:relative;
+	line-height:20px;
+	vertical-align:middle;
+	border-bottom:1px solid #bbbbbb;
+	border-top:1px solid #bbbbbb;
+}
+.buttonlink a {
+	text-decoration:none;
+	line-height:20px;
+	color:#1D1060;
+}
+.buttonlink {
+	line-height:20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:normal;
+	font-size:11px;
+	padding-left:10px;
+	padding-right:10px;
+	border-right:1px solid #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* admin.css */
+.container {
+	background-color:#FFFFFF;
+	width:1000px;
+	padding:11px 11px 11px 11px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.menurow {
+	width:150px;
+}
+.menuarea {
+	border:1px solid #6f7579;
+	padding-left:11px;
+	padding-top:14px;
+	padding-right:11px;
+	padding-bottom:28px;
+	background-color:#eaf3f9;
+	line-height:22px;
+}
+.menuarea a {
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-size:12px;
+}
+.fieldholder input.text {
+	border:1px solid #dedede;
+	width:350px;
+}
+.fieldholder select {
+	border:1px solid #dedede;
+	width:auto;
+}
+.fieldholder textarea {
+	border:1px solid #dedede;
+	width:350px;
+	height:150px;
+}
+.fieldmenu {
+	padding-right:15px;
+}
+.menudropdown {
+	padding-right:5px;
+}
+.menudropdown select {
+	width:180px;
+}
+.relatedbuttonrow {
+	position:relative;
+	width:650px;
+	z-index:200;
+	line-height:20px;
+	vertical-align:middle;
+	border-bottom:1px solid #1D1060;
+	border-top:1px solid #1D1060;
+	background-color:#CCCCCC;
+}
+.relatedbuttonlink a {
+	text-decoration:none;
+	line-height:20px;
+	color:#4c4c4c;
+}
+.relatedbuttonlink {
+	line-height:20px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px;
+	padding-left:20px;
+	padding-right:20px;
+	border-right:1px solid #000000;
+}
+
+.moduleHeading {
+	background:#0095E4;
+	color:#FFF;
+	display:block;
+	width:100%;
+	padding:15px 35px;
+	font-size:16px;
+}
+.moduleHeading a {
+	color:#4c4c4c;
+	text-decoration:none;
+	font-size:16px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+#hovedfeltStrek {
+	border:1px solid #6f7579;
+	width:650px;
+}
+.notAccessField {
+	height:450px;
+	width:100%;
+	text-align:center;
+	color:#FF0000;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+.moduleDesc {
+	padding:15px 35px;
+	font-size:14px;
+	background:#FFF;
+}
+.moduleinfofield {
+	position:relative;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	width:100%;
+	text-align:right;
+	padding-right:5px;
+	color:#000000;
+	text-align:right;
+	display:none;
+}
+.modulecontent {
+	padding:10px 0px 10px 20px;
+	width:100%;
+	max-width:100%;
+	border-right:1px solid #EAEAEA;
+}
+.subcontent .modulecontent {
+	width:100% !important;
+}
+.oneinput {
+	float:left;
+	width:30%;
+}
+.onefield {
+	width:68%;
+	float:left;
+	line-height:23px;
+	padding:2px 0px 2px 0px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.onefield input, .onefield textarea, .onefield select {
+	 font-family:Arial, Helvetica, sans-serif;
+	 font-size:13px;
+	 width:95%;
+}
+.radioinput {
+	width:20px;
+	border:1px solid #000000;
+}
+.twoinput {
+	float:left;
+	width:100%;
+}
+.twofield {
+	width:100%;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.twofield input, .twofield textarea, .twofield select {
+	 font-family:Arial, Helvetica, sans-serif;
+	 font-size:13px;
+	 width:95%;
+}
+.fieldname {
+	font-size:12px;
+	font-weight:normal;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height:23px;
+	padding:2px 0px 2px 0px;
+}
+.adm-ui-checkbox-full, .adm-ui-checkbox-empty {
+	background-image:url("../../../elementsGlobal/checkbox_full.png");
+	background-repeat:no-repeat;
+	width:16px;
+	height:16px;
+}
+.adm-ui-checkbox-empty {
+	background-image:url("../../../elementsGlobal/checkbox_empty.png");
+}
+#sortable {
+	position:relative;
+	list-style-type: none;
+	margin: 0;
+	padding: 10px 0 0 2px;
+	width: 60%;
+}
+#sortable li {
+	margin: 0 3px 3px 3px;
+	padding: 0.4em;
+	padding-left: 0.5em;
+	cursor:move;
+}
+#sortable li span {
+	float:left;
+}
+.module-manager {
+	padding:10px;
+}
+.module-manager .module-item:hover {
+	background-color:#8DF;
+}
+.module-manager .head {
+	font-weight:bold;
+	background-color:#bbb;
+}
+.module-manager .head td, .module-manager .module-item td {
+	padding:0 3px;
+	line-height:20px;
+}
+.module-manager .module-item td a {
+	text-decoration:none;
+	color:#000066;
+	padding:2px 0;
+}
+.module-manager .module-item td.type a, .module-manager .module-item td.type span {
+	padding:2px;
+}
+.module-manager .module-item td.type span, .module-manager .module-item td.type a:hover {
+	background-color:#069;
+	color:#FFF;
+}
+.module-manager .inputfeltbuttonLagre {
+	padding-top:20px;
+}
+.module-manager div.parent span {
+	font-weight:bold;
+}
+.module-manager div.parent span, .module-manager div.child span {
+	cursor:pointer;
+}
+.module-manager div.parent span:hover, .module-manager div.child span:hover {
+	color:#069;
+	text-decoration:underline;
+}
+.module-manager span.warn {
+	color:#C03;
+}
+.module-manager span.go {
+	color:#390;
+	font-weight:bold;
+}
+.module-manager span.warn.go {
+	font-style:italic;
+}
+.module-manager div.childs {
+	padding-left:20px;
+}
+
+
+
+/* adminmainwindowcss.css */
+.tabellvisningsfelt{padding-left:5px; }
+.tabellvisningsfelt td{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; line-height:18px;}
+.tabellinfo{ width:785px; border-bottom:1px solid #dedede; padding-left:5px; padding-top:5px; padding-right:5px; }
+.tabellinfo td{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold;}
+.tabellinfo td a{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold; text-decoration:none; color:#000000;}
+.tabellkol1{width:390px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px;}
+.tabellkol2{width:240px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px;}
+.tabellkolID{width:150px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px;}
+.emnevalg{ width:395px;}
+.emnevalg a{text-decoration:none; color:#006;}
+.tabellkolendre{ text-align:right; width:57px;}
+.tabellkolendreledd{ text-align:right; width:97px;}
+.tabellkolvisside{ text-align:right; width:57px;}
+.tabellkoldupliser{ text-align:right; width:62px;}
+.tabellkolinstillinger{ text-align:right; width:75px;}
+.tabellkolvalgfelt{ text-align:right; padding-left:15px;}
+.tabellkolsletteledd{ text-align:right; width:98px;}
+
+.tabellkolendreikon{ text-align:center; width:30px; padding-left:27px;}
+.tabellkolvissideikon{ text-align:center; width:39px; padding-left:18px;}
+.tabellkoldupliserikon{ text-align:center;  padding-left:25px;}
+.tabellkolinstillingerikon{ text-align:center; width:60px; padding-left:15px;}
+.tabellkolsletteikon{ text-align:center; width:33px; padding-left:15px;}
+.tabellkolrekkefolge{ text-align:center; width:120px; padding-left:15px;}
+.tomskillelinje{height:5px;}
+.tomtdskille{width:15px;}
+.kortstrek{ /*background-image:url(koblinger/skillestrek_kort.gif);*/ width:41px; height:9px;}
+.langstrek{ /*background-image:url(koblinger/skillestrek_lang.gif);*/ width:614px; height:9px;}
+.modulhandling{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; width:170px; text-align:left;  color:#990033;}
+.modulnavnrad{ height:5px;}
+.hjelpetekst{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; padding:10px 10px 15px 4px;}
+.hjelpetekstKnapp{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; padding:10px 0px 15px 4px;}
+#menyvisningsfelt{	background-color:#FFFFFF;	 width:795px;}
+#inputvisningsfelt1{	background-color:#FFFFFF;	  width:795px; padding-left:0px;}
+#inputvisningsfelt2{	background-color:#FFFFFF;	 width:795px; padding-left:0px;}
+#inputskillefelt{height:10px;}
+.inputfeltnavn{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; padding-top:5px; padding-left:0px; font-weight:bold;}
+.inputfelt{padding-left:0px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; }
+.inputfelt input{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; width:600px; border:1px solid #dedede;}
+.inputfelt textarea{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; line-height:16px; border:1px solid #dedede;}
+.inputfelt select{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; border:1px solid #dedede;}
+.inputfeltkort input{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; width:250px; border:1px solid #dedede;}
+.inputfeltkort textarea{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; line-height:16px; border:1px solid #dedede; width:250px; height:40px;}
+
+.inputfeltselectflervalg {padding-left:0px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; width:300px; padding-bottom:5px;}
+.inputfeltselectflervalg select{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; border:1px solid #dedede; height:200px; width:300px;}
+.inputfeltdokument{padding-left:20px;font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; }
+.inputfeltdokument input{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; width:200px; border:1px solid #dedede; }
+.inputfeltbilde{padding-left:0px;font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; }
+.inputfeltbilde input{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; width:200px; border:1px solid #dedede; }
+.inputfeltbilde select{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; border:1px solid #dedede;}
+.inputfeltbildetekst{padding-left:0px;font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; }
+.inputfeltbildetekst input{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; width:200px; border:1px solid #dedede; }
+.inputfeltmeny select{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; border:1px solid #dedede;}
+.inputfeltmeny{padding-top:5px; height:16px; line-height:16px; }
+.inputfeltbutton {padding-left:5px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; }
+.inputfeltbutton input{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; background-color:#ededed; border:1px solid #dedede;}
+.inputfeltbuttonLagre {padding-left:0px; padding-top:10px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; }
+.inputfeltbuttonLagre input{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; height:16px; line-height:16px; background-color:#ededed; border:1px solid #dedede;}
+
+.inputfeltnavnfeilmelding{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; padding-top:5px; padding-left:0px; font-weight:bold; color:#FF0000;}
+.flervalgbilde{padding-left:20px; padding-top:10px;}
+
+ul.sortableList {list-style-type: none;	padding: 0px;	margin: 0px;	width: 450px;	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px;}
+ul.sortableList li { 	cursor: move; 	padding: 2px 2px; 	margin: 2px 0px;	border: 1px solid #000000;	background-color: #f6f7f8;}
+
+/*
+** Framework variable help text
+*/
+.fw_var_help_text {
+    position: relative;
+}
+.fw_var_help_text .glyphicon.glyphicon-info-sign {
+    cursor: pointer;
+    color: #cccccc;
+    margin-left:4px;
+	font-size:10px;
+}
+.fw_var_help_text .txt {
+    display: none;
+    font-size: 12px !important;
+    font-weight: normal;
+    color: #666666;
+	cursor:text;
+    left:12px;
+    top: 5px;
+	min-width:150px;
+    background-color: #ffffff;
+    border: 1px solid #999999;
+    border-radius: 5px;
+    padding: 5px 10px;
+    position: absolute;
+	z-index:999;
+}
+.fw_var_help_text .txt.right-side-position {
+    right:12px;
+	left:auto;
+}
+.fw_var_help_text:hover .txt {
+    display: inline-block;
+}

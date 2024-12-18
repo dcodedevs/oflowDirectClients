@@ -1,0 +1,65 @@
+(8.26) 2017-09-21 ALI
+Fixed related item sorting
+
+(8.25) 2017-08-03 ALI
+Fixed issue with related id saving in table and field handling
+
+(8.24) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.23) 2016-11-24 ALI
+Fixed escape sql
+
+(8.22) 2016-11-14 ALI
+Rollback field/table protect_identifiers to escape_name
+
+(8.21) 2016-11-04 ALI
+Replaced field/table escape to protect_identifiers
+
+(8.20) 2016-10-25 ALI
+Secure DB connection
+
+(8.09) 2016-02-18 PSH
+Added dragable functionality
+
+(8.07) 2016-01-20 PSH
+Added id field to created table as autoincrement and primary
+Added possibility to add extrafields saved in related table.
+
+(8.06) 2016-01-20 ALI
+Fixed single_language_table detection
+
+(8.05) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.04) 2015-10-14 ALI
+Added $content_status functionality
+
+(8.03) 2015-10-09 ALI
+Added $s_default_output_language variable and used it for lists
+
+(8.02) 2015-05-29 ALI
+Special character fix in input
+
+(8.01) 2015-05-22 ALI
+Session fix
+
+(8.00) 2015-03-20 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.19) 2015-01-23 ALI
+Fixed contentreg.php $Field[11] => $Field[$fieldPos][11]
+
+(7.18) 2014-10-02 ALI
+Fieldtype version update
+
+(7.17) 2014-06-30 ALI
+Relation definition in Extra value
+Related table auto-creation
+Option for storing relation also localy
+
+(7.16) 2013-08-15 ALI
+Updated AccessLevel handle
+
+(7.15) 2013-06-25 ALI
+Added type.

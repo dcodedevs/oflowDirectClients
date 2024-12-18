@@ -1,0 +1,347 @@
+/*Headline Start
+------------------------------------------------*/
+.p_headerLine {
+  min-height: 44px;
+  position:relative;
+  padding:15px 17px 16px 22px;
+  border-bottom:1px solid #e8e8e8;
+  font-size:13px;
+  font-weight: 700;
+  background:#FFF;
+}
+.p_headerLine .btnStyle {
+  float:left;
+  cursor:pointer;
+  margin-left:20px;
+}
+.p_headerLine .btnStyle.leftMargin {
+  margin-left: 40px;
+}
+.plusTextBox {
+  color:#46b2e2;
+  position:relative;
+  float:right;
+  display:none;
+}
+.plusTextBox.active {
+  display:block;
+}
+.plusBox {
+  position:absolute;
+  width:12px;
+  height:12px;
+  top:5px;left:-18px;
+}
+.plusBox .lineV {
+  position:absolute;
+  top:0;left:5px;
+  width:2px;
+  height:12px;
+  background-color:#46b2e2;
+}
+.plusBox .lineH {
+  position:absolute;
+  top:5px;left:0;
+  width:12px;
+  height:2px;
+  background-color:#46b2e2;
+}
+.plusBox .lineHT {
+  position:absolute;
+  top:0;left:0;
+  width:12px;
+  height:2px;
+  background-color:#46b2e2;
+}
+.plusBox .lineHB {
+  position:absolute;
+  bottom:0;left:0;
+  width:12px;
+  height:2px;
+  background-color:#46b2e2;
+}
+/*Headline End
+------------------------------------------------*/
+
+#output-content-container {
+  background: #F8F8F8;
+  padding-bottom:30px;
+}
+#p_container, #p_container td {
+    color: #3B3C4E;
+    font-size: 13px;
+    font-weight: 500;
+}
+.p_container {
+  /*min-width:700px;*/
+  margin:0 auto;
+  padding-top:1px;
+}
+.p_container .p_containerInner {
+  margin:30px 0px 10px 0px;
+}
+.p_pageTitle {
+  font-size: 20px;
+  padding: 20px 0px 20px;
+}
+.p_pageDetails {
+  border:1px solid #cecece;
+  border-bottom:none;
+  /*padding:10px;*/
+}
+.p_pageDetailsTitle {
+  font-size:14px;
+  font-weight:bold;
+  padding:10px 15px;
+  background-color:#f4f4f4;
+  border-bottom:1px solid #cecece;
+}
+.p_contentBlock {
+  background: #FFF;
+  padding:15px;
+}
+.no-vertical-padding {
+  padding-bottom:0px;
+  padding-top:0px;
+}
+.p_contentBlockTitle {
+  font-weight:bold;
+  font-size:15px;
+  margin-bottom:15px;
+}
+#p_container .p_pageDetails .border-left {
+  border-left:1px solid #cecece;
+  padding-left:20px;
+}
+#p_container .p_contentBlock tr.changes {
+  background-color:#fcf8e3;
+}
+#p_container .p_contentBlock tr.deleted {
+  background-color:#f2dede;
+}
+#p_container .p_contentBlock tr.new {
+  background-color:#d9edf7;
+}
+#p_container .p_contentBlock td.txt-label {
+  font-weight:bold;
+}
+#p_container .p_contentBlock td.txt-value {
+  /*font-weight:bold;*/
+}
+#p_container .p_contentBlock td.approve-label {
+  font-weight:bold;
+  width:30%;
+}
+#p_container .p_contentBlock td.approve-value {
+  /*font-weight:bold;*/
+  width:30%;
+}
+#p_container .p_contentBlock td {
+  padding:5px 5px;
+}
+#p_container .p_contentBlock td.btn-edit {
+  text-align:right;
+}
+.p_content {
+    background: #fff;
+    padding: 20px 20px;
+}
+.p_contentBlock .output-caselist li {
+  display:block;
+  padding:0;
+}
+.p_contentBlock .output-caselist li a{
+  display:inline-block;
+  padding:5px 0;
+  /*color:#666;*/
+}
+.p_contentBlock .output-caselist li a:hover,
+.p_contentBlock .output-filelist li a:hover {
+  text-decoration: none;
+  /*color:#3B3C4E;*/
+}
+.p_contentBlock .output-caselist li a .glyphicon,
+.p_contentBlock .output-filelist li a .glyphicon{
+  font-size:0.8em;
+}
+.addEntryBtn {
+  font-size:12px;
+  display:inline-block;
+  position:relative;
+  background:none;
+  border:0;
+  border-radius:0px;
+  padding:0;
+  box-shadow: none;
+  color:#46b2e2;
+  border-bottom:1px dashed #46b2e2;
+  margin-left:15px;
+  outline:none;
+  font-weight:normal;
+}
+.addEntryBtn:hover,
+.addEntryBtn:focus,
+.addEntryBtn:active {
+  background:none;
+  text-decoration: none;
+  color:#0284C9;
+  border-bottom:1px dashed #0284C9;
+  outline:none;
+}
+.addEntryBtn:before {
+  display:inline-block;
+  position:absolute;
+  left:-11px;
+  top:-2px;
+  font-size:16px;
+  content: "+";
+  font-weight:bold;
+  outline:none;
+}
+.editBtnBlank {
+  display: inline-block;
+  padding: 3px 6px;
+  border-radius: 3px;
+  border:1px solid #46b2e2;
+  color:#46b2e2;
+  background:none;
+  outline:0;
+}
+.editBtnBlank:focus,
+.editBtnBlank:active,
+.editBtnBlank:hover {
+  border:1px solid #0284C9;
+  color:#0284C9;
+}
+#p_container .p_contentBlock .rolesTable thead th {
+  border-bottom:none;
+    padding:5px 0;
+}
+#p_container .p_contentBlock .rolesTable td {
+  border-top:1px solid #efecec;
+  padding:5px 0;
+}
+#p_container .p_contentBlock .rolesTable td.editBtnTd {
+  width:55px;
+  text-align:right;
+}
+.invoices {
+  padding-bottom: 30px;
+}
+.activityDropDown {
+	float:left;
+	width:120px;
+}
+.overallTime {
+	margin-left: 4px;
+    margin-right: 4px;
+}
+.Field
+{
+
+  float:left;
+  width:99%;
+  margin-bottom:4px;
+  border:1px solid #6633CC;
+  padding:3px 3px 3px 3px;
+
+}
+.startText
+{
+  float:left;
+  margin-right:4px;
+  margin-left:4px;
+  line-height:22px;
+}
+
+.startHour
+{
+  float:left;
+}
+
+.startMinute
+{
+  float:left;
+}
+
+.commaDelimiter
+{
+  float:left;
+  line-height:22px;
+}
+
+.Line
+{
+  float:left;
+  width:90%;
+}
+
+.Line input
+{
+
+
+
+}
+
+.closeButton
+{
+  float:right;
+  line-height:44px;
+  padding-right:5px;
+}
+
+.lineDescription
+{
+  float:left;
+  line-height:22px;
+}
+
+.addButton
+{
+  float:right;
+  line-height:22px;
+}
+
+.listField0
+{
+
+ background-color:#f6f7f8;
+ line-height:18px;
+ font-size:11px;
+ padding-left:25px; padding-right:25px;
+
+}
+
+.listField0 a
+{
+
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ text-decoration:none;
+ color:#000000;
+
+}
+
+.listField1
+{
+ background-color:#FFFFFF;
+ line-height:18px;
+ font-size:11px;
+ padding-left:25px; padding-right:25px;
+
+}
+
+.listField1 a
+{
+
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ text-decoration:none;
+ color:#000000;
+
+}
+
+.output-expander-link {
+	color:#57b4e4;
+	display:inline-block;
+	text-wrap:none;
+	white-space:nowrap;
+}

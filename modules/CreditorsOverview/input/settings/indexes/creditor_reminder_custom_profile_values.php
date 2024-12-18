@@ -1,0 +1,3 @@
+<?php
+$sys_table_indexes = array('creditor_reminder_custom_profile_id:key:creditor_reminder_custom_profile_values:creditor_reminder_custom_profile_id', 'collecting_cases_process_step_id:key:creditor_reminder_custom_profile_values:collecting_cases_process_step_id', 'collecting_cases_pdftext_id:key:creditor_reminder_custom_profile_values:collecting_cases_pdftext_id', 'collecting_cases_emailtext_id:key:creditor_reminder_custom_profile_values:collecting_cases_emailtext_id');
+?>

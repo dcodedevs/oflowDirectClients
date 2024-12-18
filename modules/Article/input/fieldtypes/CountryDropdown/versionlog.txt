@@ -1,0 +1,12 @@
+(8.00) 2015-03-25 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.21) 2014-10-02 ALI
+Fieldtype version update
+
+(7.20) 2013-11-29 ALI
+Updated to use local ApiConnect
+Updated with access functionality
+
+(7.15) 2013-04-15 ALI
+Added type.

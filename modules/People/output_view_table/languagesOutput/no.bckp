@@ -1,0 +1,30 @@
+<?php
+$formText_MissingName_output="Mangler navn";
+$formText_ParentColumn_Output="Overliggende kolonne";
+$formText_Select_output="Velg";
+$formText_SubTableName_Output="Subtabell navn";
+$formText_SubTableFieldForParentConnection_Output="Subtabell felt for kobling til overliggende";
+$formText_SubTableFieldNameToDisplayInMainTable_Output="Subtabell felt navn for visning i hovedtabell";
+$formText_Cancel_Output="Avbryt";
+$formText_Save_Output="Lagre";
+$formText_ErrorOccuredSavingContent_Output="En feil oppstod under lagring";
+$formText_YouMissed_validate="Det mangler";
+$formText_field_validate="felt";
+$formText_TheyHaveBeenHighlighted_validate="De er markert";
+$formText_fields_validate="felter";
+$formText_SelectTheCreditor_output="Velg";
+$formText_SelectTheDebitor_output="Velg";
+$formText_TableName_Output="Tabell navn";
+$formText_SelectInvoiceResponsible_Output="Velg";
+$formText_AddTable_Output="Legg til tabell";
+$formText_Fields_output="Felter";
+$formText_Export_output="Eksporter";
+$formText_AddSubTable_output="Legg til subtabell";
+$formText_ChooseFields_output="Velg felter";
+$formText_SelectAll_output="Velg alle";
+$formText_ConfirmDelete_output="Ønsker du å slette";
+$formText_SearchForProject_output="Velg for oppdra";
+$formText_Search_output="Søk";
+$formText_InSelection_output="i utvalg";
+$formText_Reset_output="Nullstill";
+?>

@@ -1,0 +1,31 @@
+<?php
+$formText_TopImageTitle_output="Framsida ";
+$formText_changeBannerImage_output="Ändra framsida ";
+$formText_Page1_output="Sida 1";
+$formText_Page2_output="Sida 2 ";
+$formText_EditDashboard_output="Redigera dashboard ";
+$formText_LatestUpdates_output="Sista uppdateringar Getynet Clean";
+$formText_UpcomingUpdates_output="Kommande uppdateringar Getynet Clean";
+$formText_Elements_output="Elementer ";
+$formText_FullWidth_output="Full bredd ";
+$formText_Hidden_output="Dolda elementer ";
+$formText_Page1Full_output="Sida 1 - Full bredde ";
+$formText_Page1Left_output="Sida 1 - Vänstra kolumn ";
+$formText_Page1Right_output="Sida 1 - Högra kolumn ";
+$formText_Page2Full_output="Sida 2 - full bredde ";
+$formText_Page2Left_output="Sida 2 - Vänstra kolumn ";
+$formText_Page2Right_output="Sida 2 - Högra kolumn ";
+$formText_Cancel_Output="Avbryt";
+$formText_Save_Output="Spara";
+$formText_CanNotAddToRegularColumnPleaseAddToFullWidth_output="Den här modulen kan bara användas i &quot;Full bredde&quot;";
+$formText_CanNotAddToFullWidthPleaseAddToRegularColumn_output="Denna modul kan bara användas i en kolumn ";
+$formText_ErrorOccuredSavingContent_Output="Ett fel uppstod under sparringen";
+$formText_YouMissed_validate="Det fattas";
+$formText_field_validate="fält";
+$formText_TheyHaveBeenHighlighted_validate="De är markerat";
+$formText_fields_validate="Fält";
+$formText_ReadMore_output="Läs mer ";
+$formText_BackToList_outpup="Tillbaka till sökresultat";
+$formText_Published_output="Publicera ";
+$formText_ConfirmDeleteArticle_output="Önskar du att radera artikeln ";
+?>

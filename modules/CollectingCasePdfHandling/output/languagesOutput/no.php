@@ -1,0 +1,32 @@
+<?php
+$formText_YouHaveNoAccess_Output="Du har ikke tilgang";
+$formText_InvoicesNotFound_Output="Ingen fakturaer funnet";
+$formText_NoPdfCreated_output="Pdf er ikke opprettet";
+$formText_Date_output="Dato";
+$formText_Creditor_output="Kreditor";
+$formText_Debitor_output="Debitor";
+$formText_Pdf_output="Pdf";
+$formText_PdfCounts_output="Antall pdf";
+$formText_PreviewPdf_output="Forhåndsvisning pdf";
+$formText_DownloadAllPdf_output="Last ned";
+$formText_Showing_Output="Viser";
+$formText_Of_output="av";
+$formText_ShowMore_output="Vis mer";
+$formText_LaunchPdfGenerateScript_output="Lag pdf fil for utskrift";
+$formText_ProcessActions_output="Utfør prosess";
+$formText_NoUpdate_output="Ikke oppdater";
+$formText_Reminder_output="Påminnelse";
+$formText_DebtCollectionWarning_output="Inkassovarsel";
+$formText_PaymentEncouragement_output="Inkasso betalingsoppfordring";
+$formText_HeavyFeeWarning_output="Varsel om tungt salær";
+$formText_LastWarningBeforeLegalAction_output="Siste varsel før rettslig pågang";
+$formText_LegalAction_output="Resttslig pågang";
+$formText_BackToList_outpup="Tilbake til søkeresultat";
+$formText_BatchId_output="Batch id";
+$formText_pdf_output="Pdf";
+$formText_ConfirmDelete_output="Ønsker du å slette";
+$formText_AddEditProcessSteps_Output="Rediger prosesser";
+$formText_NotPrinted_output="Ikke printet";
+$formText_PrintedToday_output="Printet i dag";
+$formText_PrintedEarlier_output="Printet tidligere";
+?>

@@ -1,0 +1,25 @@
+<?php
+$preblocks = array (
+  'id' => 1,
+  'moduleID' => 1,
+  'createdBy' => 1,
+  'created' => 1,
+  'updatedBy' => 1,
+  'updated' => 1,
+  'origId' => 1,
+  'sortnr' => 1,
+  'content_status' => 1,
+  'internal_name' => 1,
+  'article_name' => 1,
+  'amount' => 1,
+  'amount_person' => 1,
+  'company_fee_amount_level_1' => 1,
+  'company_fee_amount_level_2' => 1,
+  'company_fee_amount_level_3' => 1,
+  'company_fee_amount_level_4' => 1,
+  'person_fee_amount_level_1' => 1,
+  'person_fee_amount_level_2' => 1,
+  'person_fee_amount_level_3' => 1,
+  'person_fee_amount_level_4' => 1,
+);
+?>

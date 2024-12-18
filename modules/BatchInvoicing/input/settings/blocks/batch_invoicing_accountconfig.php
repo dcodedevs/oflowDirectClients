@@ -1,0 +1,28 @@
+<?php
+$preblocks = array (
+  'id' => 1,
+  'moduleID' => 1,
+  'createdBy' => 1,
+  'created' => 1,
+  'updatedBy' => 1,
+  'updated' => 1,
+  'origId' => 1,
+  'sortnr' => 1,
+  'content_status' => 1,
+  'activateCheckForProjectNr' => 1,
+  'activateCheckForDepartmentCode' => 1,
+  'forceConnectCreditInvoice' => 1,
+  'activate_check_before_invoicing' => 1,
+  'path_check_before_invoicing' => 1,
+  'activate_syncing_of_customer_and_invoice' => 1,
+  'path_syncing_of_customer_and_invoice' => 1,
+  'activate_customer_sync_at_start' => 1,
+  'path_for_customer_sync_at_start' => 1,
+  'activate_overwrite_invoice_number' => 1,
+  'path_overwrite_invoice_number' => 1,
+  'activate_ehf_check' => 1,
+  'notAllowInvoiceIfNoExtcustomerId' => 1,
+  'activate_filter_by_department' => 1,
+  'activate_filter_by_project' => 1,
+);
+?>

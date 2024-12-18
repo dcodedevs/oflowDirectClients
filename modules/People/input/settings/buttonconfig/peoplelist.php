@@ -1,0 +1,3 @@
+<?php
+$prebuttonconfig = "Migrate data:{$formText_MigrateData_module}:MigrateDataFromEmployee:people:0:0:People:¤Fix seniority:{$formText_FixSeniority_module}:FixSeniority:people:0:0:People:¤Fix new contacperson structure:{$formText_FixNewContacpersonStructure_module}:FixNewContactpersonStructure:people_accountconfig:0:0:People:¤Group from getynet:{$formText_GroupFromGetynet_module}:MigrateGetynetGroupsToLocal:cache_grouplist:0:0:People:¤Add access for company edit:{$formText_AddAccessForCompanyEdit_module}:AddAccessForCompanyToEditProfiles:people:0:0:People:¤";
+?>

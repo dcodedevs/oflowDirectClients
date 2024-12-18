@@ -1,0 +1,25 @@
+(8.27) 2020-06-11 ALI
+DB insert optimizations
+
+(8.26) 2017-12-04 BO
+new design changes and search functionality
+
+(8.25) 2017-12-04 ALI
+Major issue fixed regarding triggering URL change.
+Updates for saving choosen menupoint for URL generator.
+
+(8.24) 2017-09-06 BO
+Updates
+
+(8.23) 2017-06-15 ALI
+Removed files which are not in use.
+Updates regarding list url (added back list before menu name with translation)
+
+(8.22) 2017-05-26 ALI
+Updates regarding list url (removed "list" at the end)
+
+(8.21) 2017-02-07 BO
+Fix menulevelID = 0 on first save
+
+(8.20) 2017-01-23 BO
+Fieldtype created

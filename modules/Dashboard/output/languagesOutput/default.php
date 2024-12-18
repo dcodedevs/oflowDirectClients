@@ -1,0 +1,31 @@
+<?php
+$formText_TopImageTitle_output="Top image title";
+$formText_changeBannerImage_output="Change banner image";
+$formText_Page1_output="Page 1";
+$formText_Page2_output="Page 2";
+$formText_EditDashboard_output="Edit dashboard";
+$formText_LatestUpdates_output="Latest updates";
+$formText_UpcomingUpdates_output="Upcoming updates";
+$formText_Elements_output="Elements";
+$formText_FullWidth_output="Full width";
+$formText_Hidden_output="Hidden";
+$formText_Page1Full_output="Page 1 full";
+$formText_Page1Left_output="Page 1 left";
+$formText_Page1Right_output="Page 1 right";
+$formText_Page2Full_output="Page 2 full";
+$formText_Page2Left_output="Page 2 left";
+$formText_Page2Right_output="Page 2 right";
+$formText_Cancel_Output="Cancel";
+$formText_Save_Output="Save";
+$formText_CanNotAddToRegularColumnPleaseAddToFullWidth_output="Can not add to regular column please add to full width";
+$formText_CanNotAddToFullWidthPleaseAddToRegularColumn_output="Can not add to full width please add to regular column";
+$formText_ErrorOccuredSavingContent_Output="Error occured saving content";
+$formText_YouMissed_validate="You missed";
+$formText_field_validate="Field";
+$formText_TheyHaveBeenHighlighted_validate="They have been highlighted";
+$formText_fields_validate="Fields";
+$formText_ReadMore_output="Read more";
+$formText_BackToList_outpup="Back to list";
+$formText_Published_output="Published";
+$formText_ConfirmDeleteArticle_output="Confirm delete article";
+?>

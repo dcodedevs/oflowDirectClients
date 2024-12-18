@@ -1,0 +1,31 @@
+<?php
+$formText_ReportHistory_output="Historik ";
+$formText_ReportId_output="Rapportera Id ";
+$formText_Created_output="Skapad";
+$formText_InvoicesCount_output="Antal fakturor ";
+$formText_CurrentReport_output="Denna rapport ";
+$formText_ViewReport_output="Visa rapport ";
+$formText_NumberOfNewlyAddedInvoices_output="Antal nya skapade fakturor ";
+$formText_CreateReportForNewlyAddedElements_output="";
+$formText_Invoices_output="Fakturor";
+$formText_OwnerCompany_output="Faktura från firma";
+$formText_Text_Output="Text";
+$formText_Price_Output="Ordinarie pris ut";
+$formText_Amount_Output="Antal";
+$formText_Discount_Output="Rabatt procent";
+$formText_Vat_Output="Mva";
+$formText_TotalPrice_Output="Pris total";
+$formText_InvoiceDate="Fakturadatum";
+$formText_DueDate="Förfallodatum";
+$formText_DivideOnDays_outputper="Fördela på veckor";
+$formText_DateFrom_output="Datum från";
+$formText_DateTo_output="Datum till";
+$formText_DivideOnMonths_outputper="Fördela på månader";
+$formText_Month_output="Mnd ";
+$formText_MonthFrom_output="Mnd från ";
+$formText_MonthTo_output="Mnd till ";
+$formText_SumWithoutVat_Output="Sum elskl mva";
+$formText_Total_Output="Total";
+$formText_NoNewlyCreatedInvoices_output="Inga nya skapade fakturor ";
+$formText_BackToInvoiceReport_Output="Tillbaka till faktureringsapport ";
+?>

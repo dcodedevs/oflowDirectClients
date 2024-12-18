@@ -1,0 +1,14 @@
+(8.00) 2015-08-26 ALI
+Updated to latest framwork (v8)
+
+(7.23) 2015-02-16 ALI
+Fix: POST code executes only when import POST called
+
+(7.22) 2013-12-09 VD
+Input labels, check duplicates, implode import field
+
+(7.21) 2013-12-09 VD
+Updated to encoding utf 8
+
+(7.20) 2013-12-09 VD
+First version

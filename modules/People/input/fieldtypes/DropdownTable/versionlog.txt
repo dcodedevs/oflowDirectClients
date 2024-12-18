@@ -1,0 +1,70 @@
+(8.24) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.23) 2017-01-27 ALI
+Table exists check
+
+(8.22) 2016-11-14 ALI
+Rollback field/table protect_identifiers to escape_name
+
+(8.21) 2016-11-04 ALI
+Replaced field/table escape to protect_identifiers
+
+(8.20) 2016-10-25 ALI
+Secure DB connection
+
+(8.07) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.06) 2015-10-15 ALI
+Added $content_status functionality
+
+(8.05) 2015-10-09 ALI
+Added $s_default_output_language variable and used it for lists
+
+(8.04) 2015-10-01 ALI
+Added None value in select as additional option
+
+(8.03) 2015-06-09 ALI
+Fixed initial value - if empty value defined in extra field
+
+(8.02) 2015-05-29 ALI
+Special character fix in input
+
+(8.01) 2015-05-22 ALI
+Session fix
+
+(8.00) 2015-03-24 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.08) 2015-02-10 ALI
+Added multi-language table support
+
+(7.07) 2015-01-27 ALI
+Sort data by first column
+
+(7.06) 2014-11-07 ALI
+Multiple instance implementation
+
+(7.05) 2014-10-02 ALI
+Fieldtype version update
+
+(7.04) 2014-04-16 ALI
+Fix for tree feature
+
+(7.03) 2014-04-08 ALI
+Added Tree feature
+
+(7.02) 2013-08-15 ALI
+Updated AccessLevel handle
+
+(7.01) 2012-10-27 ALI
+Added more names to display in dropdown.
+
+(6.03) 2012-08-30 ALI
+Added select filter after WHERE
+
+(6.02) ???
+
+(6.01) 2011-07-05 ALI
+Added type.

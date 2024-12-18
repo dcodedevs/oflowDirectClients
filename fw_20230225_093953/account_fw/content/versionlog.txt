@@ -1,0 +1,43 @@
+(8.05) 2016-05-07 ALI
+Fixed CSS load for other outputs than default
+
+(8.04) 2016-03-31 ALI
+Changed CSS and JS url to full path
+
+(8.03) 2016-01-22 ALI
+Fixed CSS naming of edit page group columns
+
+(8.02) 2015-10-28 ALI
+New json returns
+
+(8.01) 2015-09-11 ALI
+CSS changes - multilanguage field tabs
+
+(8.00) 2015-08-10 ALI
+CSS changes
+
+(7.107) 2015-07-09 ALI
+CSS changes
+
+(7.106) 2014-10-21 ALI
+Moved admin to framework
+Added developer access
+
+(7.105) 2014-08-06 ALI
+Restored chat - file upload.
+
+(7.104) 2014-06-27 ALI
+Removed style from div (width:650px;)
+
+(7.103) 2014-06-05 ALI
+Added $moduleAccesslevel read from session_framework
+
+(7.102) 2014-03-03 ALI
+Moved urlpath update from here to intranettmenu module
+
+(7.101) 2014-01-20 ALI
+Replaced $_SESSION authentification to cookie
+
+(7.10) 2013-10-23 ALI
+Starting logging version.
+Updated all links and form to use framework standard parameters

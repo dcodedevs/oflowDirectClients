@@ -1,0 +1,3 @@
+<?php
+$prebuttonconfig = "Export:{$formText_Export_module}:Export:invoice:0:0:Invoice:¤Export XLS:{$formText_ExportXls_module}:ExportXls:invoice:0:0:Invoice:¤Export Cordel csv:{$formText_ExportCordelCsv_module}:ExportCordelCsv:invoice:0:0:Invoice:¤Fix:{$formText_Fix_module}:Fix:invoice:0:0:Invoice:¤TransferToTripletex:{$formText_Transfertotripletex_module}:TransferToTripletex:invoice:0:0:Invoice:¤Check invoices:{$formText_CheckInvoices_module}:CheckInvoices:invoice:0:0:Invoice:¤";
+?>

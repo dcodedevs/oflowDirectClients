@@ -1,0 +1,161 @@
+(8.26) 2022-03-22 ALI
+Jquery 3.6.0 compatibility
+
+(8.25) 2017-08-18 ALI
+Fixed issue in receivers sql query
+
+(8.24) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.23) 2017-02-07 ALI
+Added extra1 and extra2 columns in report if not empty
+
+(8.22) 2016-11-14 ALI
+Rollback field/table protect_identifiers to escape_name
+
+(8.21) 2016-11-04 ALI
+Replaced field/table escape to protect_identifiers
+
+(8.20) 2016-10-25 ALI
+Secure DB connection
+
+(8.09) 2016-06-09 ALI
+Changes in full report
+
+(8.08) 2016-05-16 ALI
+Added functionality for protected images in report
+
+(8.07) 2016-05-16 ALI
+Added options to hide statistic.
+
+(8.06) 2016-01-26 ALI
+Fixed new sent report.
+
+(8.05) 2016-01-11 ALI
+Added new sent report.
+
+(8.04) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.03) 2015-12-07 ALI
+New table structure changes and config checking
+
+(8.02) 2015-05-22 ALI
+Session fix
+
+(8.01) 2015-05-14 ALI
+Window resize after fieldtype changes to fix FW layout
+
+(8.00) 2015-03-20 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.306) 2015-01-13 ALI
+Fixed when more prefilter narrow down source
+
+(7.305) 2014-11-28 ALI
+Fixed custom userlist edit button appearance for preload check
+Fixed showing all selected users
+Moved reminder report to addOn folder.
+
+(7.304) 2014-11-13 ALI
+Added: Custom userlist and preload
+
+(7.303) 2014-11-07 ALI
+Show selected users list
+
+(7.302) 2014-10-02 ALI
+Fieldtype version update
+
+(7.301) 2014-09-24 ALI
+Added email tracking feature in report
+
+(7.300) 2014-07-07 ALI
+Templates now are located in output_ReminderEmailFieldtype
+
+(7.235) 2014-06-04 ALI
+added origgroupID for userlist
+
+(7.234) 2014-05-21 ALI
+Duplicate user change
+
+(7.233) 2014-05-20 ALI
+Language update for import
+
+(7.232) 2014-05-19 ALI
+Updated recepient import/selection
+
+(7.231) 2014-05-14 ALI
+Fixed import field filter for group fields (with sun character)
+
+(7.230) 2014-05-12 ALI
+Source configuration changes and also receiver picking changes
+
+(7.229) 2014-04-24 ALI
+Source configuration structure update
+
+(7.228) 2014-04-23 ALI
+Changed user picking functionality
+
+(7.227) 2014-03-26 ALI
+Changed report and abort buttons to text links. sumarize and paging in report. Splitted email preview and show report.
+
+(7.226) 2014-03-13 ALI
+Added unsubscribers
+
+(7.225) 2014-03-11 ALI
+Removed italic for report
+
+(7.224) 2014-03-05 ALI
+Removed empty sys_emailsend adding
+
+(7.223) 2014-03-04 ALI
+Added email fields in ajax_report
+
+(7.222) 2014-03-03 ALI
+Added versions for sending
+
+(7.221) 2014-02-26 ALI
+Changed month and year picking format
+
+(7.220) 2014-02-04 ALI
+Removed loop for performance test
+
+(7.219) 2014-01-30 ALI
+Small fix - removed duplicate myself field
+Added Membersystem friendlyname to configuration
+
+(7.218) 2014-01-24 ALI
+Fixed show list on open for local and renamed template
+
+(7.217) 2014-01-23 ALI
+Changed membersystem from API to local
+
+(7.216) 2014-01-20 ALI
+Fixed sys_sendemail type correct set/update
+
+(7.215) 2014-01-16 ALI
+Initial load user remove button fix
+
+(7.214) 2014-01-15 ALI
+Updated choose user popup to advanced settings
+
+(7.213) 2014-01-11 ALI
+Major changes:
+	- UI
+	- show performed times and report button
+	- abort functionality
+	- renamed fieldtype
+	- redirect to report page only if reminders added
+
+(7.212) 2013-12-22 ALI
+Small css fix
+
+(7.211) 2013-12-22 ALI
+Small fix for type in db
+
+(7.21) 2013-12-19 ALI
+Changes in design
+Email templates
+
+(7.20) 2013-12-16 ALI
+Added type.

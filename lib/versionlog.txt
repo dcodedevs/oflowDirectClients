@@ -1,0 +1,48 @@
+(1.105) 2017-06-06 ALI
+Added SweetAlert jquery plugin
+
+(1.104) 2017-02-10 ALI
+Fixed ckLinks JS update script
+
+(1.103) 2017-01-11 ALI
+Changes - layout blocks can have set other output folder
+
+(1.102) 2016-12-13 ALI
+Implemented multiple DB connection options
+
+(1.101) 2016-11-11 ALI
+Load css from layout blocks also
+
+(1.100) 2016-11-01 ALI
+Secure DB connection
+
+(1.002) 2016-09-06 ALI
+CKEditor ck_accLinks changes - get only needed urls
+
+(1.001) 2016-03-31 ALI
+Starting version in CENTRAL_LIB
+
+******************************
+
+(8.004) 2015-11-12 ALI
+New CKEditor changes
+
+(8.003) 2015-05-15 ALI
+Added position-calculator
+
+(8.002) 2015-05-12 ALI
+Added Cropper
+
+(8.001) 2015-03-12 ALI
+Updated jquery(1.11), jquery-ui(1.11).
+ADDED Bootstrap(3.2.2) and bootbox
+
+(7.302) 2014-08-18 ALI
+Fixed no file include
+
+(7.301) 2014-08-13 ALI
+Fixed duplicate file include
+
+(7.300) 2014-08-12 ALI
+Started versions
+Made CSS and JS minify

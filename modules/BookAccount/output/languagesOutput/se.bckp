@@ -1,0 +1,31 @@
+<?php
+$formText_PleaseSelectSet_output="Välj";
+$formText_MissingFieldsPleseFillInAllFields_output="Alla fällt måste fyllas ut ";
+$formText_EditBookaccount_output="Redigera bokföringskonto ";
+$formText_AddBookaccount_output="Lägg till bokföringskonto ";
+$formText_Name_Output="Namn";
+$formText_AccountNr_Output="Konto nr ";
+$formText_Cancel_Output="Avbryt";
+$formText_Save_Output="Spara";
+$formText_ErrorOccuredSavingContent_Output="Ett fel uppstod under sparringen";
+$formText_YouMissed_validate="Det fattas";
+$formText_field_validate="fält";
+$formText_TheyHaveBeenHighlighted_validate="De är markerat";
+$formText_fields_validate="Fält";
+$formText_SelectTheCustomer_output="Välj kund ";
+$formText_SelectResponsiblePerson_output="Välj ansvarig person ";
+$formText_SelectInvoiceResponsible_output="Välj ";
+$formText_Created_output="Skapad";
+$formText_Name_output="Namn";
+$formText_BookaccountNr_output="Bokförings konto nr ";
+$formText_Showing_Output="Visar";
+$formText_Of_output="av";
+$formText_ShowMore_output="Visa flera";
+$formText_ConfirmDelete_Output="Önskar du att ta bort";
+$formText_Yes_Output="Ja";
+$formText_No_Output="Nej";
+$formText_AddNewBookaccount_Output="Lägg till bokföringskonto ";
+$formText_Default_output="Använd standardval";
+$formText_CompanyProductSet_output="Firma produktsätt";
+$formText_ChooseSet_output="Välj sett ";
+?>

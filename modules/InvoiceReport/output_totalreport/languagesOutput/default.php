@@ -1,0 +1,31 @@
+<?php
+$formText_ReportHistory_output="Report history";
+$formText_ReportId_output="Report id";
+$formText_Created_output="Created";
+$formText_InvoicesCount_output="Invoices count";
+$formText_CurrentReport_output="Current report";
+$formText_ViewReport_output="View report";
+$formText_NumberOfNewlyAddedInvoices_output="Number of newly added invoices";
+$formText_CreateReportForNewlyAddedElements_output="Create report for newly added elements";
+$formText_Invoices_output="Invoices";
+$formText_OwnerCompany_output="Owner company";
+$formText_Text_Output="Text";
+$formText_Price_Output="Price";
+$formText_Amount_Output="Amount";
+$formText_Discount_Output="Discount";
+$formText_Vat_Output="Vat";
+$formText_TotalPrice_Output="Total price";
+$formText_InvoiceDate="Invoice date";
+$formText_DueDate="Due date";
+$formText_DivideOnDays_outputper="Divide on days";
+$formText_DateFrom_output="Date from";
+$formText_DateTo_output="Date to";
+$formText_DivideOnMonths_outputper="Divide on months";
+$formText_Month_output="Month";
+$formText_MonthFrom_output="Month from";
+$formText_MonthTo_output="Month to";
+$formText_SumWithoutVat_Output="Sum without vat";
+$formText_Total_Output="Total";
+$formText_NoNewlyCreatedInvoices_output="No newly created invoices";
+$formText_BackToInvoiceReport_Output="Back to invoice report";
+?>

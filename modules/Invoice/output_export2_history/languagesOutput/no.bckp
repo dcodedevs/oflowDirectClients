@@ -1,0 +1,30 @@
+<?php
+$formText_NoSendMethodDefined_output="Export metode er ikke definert";
+$formText_File_Output="Fil";
+$formText_Cancel_Output="Avbryt";
+$formText_Upload_Output="Last opp";
+$formText_ErrorOccuredSavingContent_Output="En feil oppstod";
+$formText_YouMissed_validate="Det mangler";
+$formText_field_validate="felt";
+$formText_TheyHaveBeenHighlighted_validate="de er markert";
+$formText_fields_validate="felter";
+$formText_GoToInvoiceList_Output="Vis fakturaliste";
+$formText_SuggestedExport_output="Forslag til eksport";
+$formText_Date_output="Dato";
+$formText_InvoiceIdFrom_output="Intern id fra";
+$formText_InvoiceNumberFrom_output="Fra fakturanr";
+$formText_InvoiceIdTo_output="Intern id til";
+$formText_InvoiceNumberTo_output="Til fakturanr";
+$formText_Export_output="Eksporter";
+$formText_NoInvoicesToExport_output="Ingen fakturaer til eksport";
+$formText_History_output="Historikk";
+$formText_CreatedDate_output="Opprettet dato";
+$formText_DownloadFile_output="Last ned fil";
+$formText_Send_output="Send";
+$formText_NoPreviousExportResults_output="Ingen tidligere eksport";
+$formText_UploadExportToFtp_output="Send med Ftp";
+$formText_FtpUsername_Output="Ftp brukernavn";
+$formText_FtpHost_Output="Ftp host";
+$formText_FtpPath_Output="Ftp path";
+$formText_SendExportToXledger_output="Send export til Xledger";
+?>

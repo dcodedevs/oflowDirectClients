@@ -1,0 +1,802 @@
+/*
+------------------------------------------------------------
+
+FW logo (left part of header)
+
+------------------------------------------------------------
+*/
+#fw_getynet.alternative .top_line_wrapper {
+	position: relative;
+	background: #194273;
+	color: #fff;
+}
+#fw_getynet .fw_logo {
+	height:50px;
+	padding:11px 0 11px 16px;
+	float:left;
+}
+
+#fw_getynet .fw_logo img {
+	border:none;
+	height:100%;
+	min-height:100%;
+}
+
+#fw_getynet .fw_logo .desktop {
+	display:none;
+}
+
+#fw_getynet .fw_logo .mobile {
+	display:inline-block;
+}
+#fw_getynet.original .fw_brand_second_logo {
+	float:left;
+	height:50px;
+	padding:2px 5px;
+	border-right:1px solid #F2F2F2;
+}
+#fw_getynet.original .fw_brand_second_logo img {
+	max-height:100%;
+}
+
+
+@media (min-width:860px) {
+
+	#fw_getynet.original .fw_logo {
+		height:70px;
+		padding:23px 0 23px 19px;
+	}
+	#fw_getynet.original .fw_logo.powered_by {
+		padding:15px 0 15px 20px;
+	}
+
+	#fw_getynet .fw_logo .desktop {
+		display:inline-block;
+	}
+
+	#fw_getynet .fw_logo .mobile {
+		display:none;
+	}
+
+	#fw_getynet.original .fw_brand_second_logo {
+		height:70px;
+		padding:12px 5px;
+	}
+	#fw_getynet.alternative .fw_logo {
+		height: 50px;
+		padding: 5px 0 5px 19px;
+	}
+	#fw_getynet.alternative .fw_logo.powered_by {
+		padding: 15px 0 15px 19px;
+	}
+
+}
+
+/*
+------------------------------------------------------------
+
+FW settings (right part of header (profile, menu, settings)
+
+------------------------------------------------------------
+*/
+
+#fw_getynet .fw_settings {
+	float:right;
+}
+
+#fw_getynet .fw_link_box {
+	height:50px;
+	float:left;
+	padding:16px 10px 0 10px;
+	color:#5D5D5D;
+	text-decoration:none;
+	border-left:1px solid #F2F2F2;
+	text-align:center;
+}
+#fw_getynet .fw_link_box .text {
+	text-transform: uppercase;
+}
+#fw_getynet.alternative .fw_link_box {
+	color:#fff;
+	border-left: 0;
+}
+#fw_getynet.alternative .fw_link_box .text{
+	text-transform: none;
+}
+
+#fw_getynet .fw_link_box:hover,
+#fw_getynet .fw_link_box:focus {
+	text-decoration:none;
+	transition:0.3s;
+}
+#fw_getynet.original .fw_link_box:hover,
+#fw_getynet.original .fw_link_box:focus {
+	background:#F8F8F8;
+}
+
+@media (min-width:480px) {
+
+	#fw_getynet .fw_link_box {
+		padding:16px 15px 0 15px;
+	}
+	#fw_getynet.alternative .fw_link_box {
+		height:50px;
+		padding: 8px 5px 7px 25px;
+	}
+
+}
+
+@media (min-width:860px) {
+
+	#fw_getynet .fw_link_box {
+		height:70px;
+		padding:26px 25px 0 25px;
+	}
+	#fw_getynet.alternative .fw_link_box {
+		height:50px;
+		padding: 8px 5px 7px 25px;
+	}
+
+}
+
+/*
+------------------------------------------------------------
+
+FW profile (picture + name)
+
+------------------------------------------------------------
+*/
+
+#fw_getynet .fw_profile {
+	font-weight: normal;
+	font-size:15px;
+}
+#fw_getynet.original .fw_profile {
+	padding-top: 10px;
+}
+
+#fw_getynet .fw_profile_image_crop {
+	display:inline-block;
+	border-radius:50%;
+	height:35px;
+	width:35px;
+	/*margin-right:10px;*/
+	overflow:hidden;
+	vertical-align: middle;
+	position:relative;
+	top:-2px;
+}
+
+#fw_getynet .fw_profile_name {
+	display:none;
+}
+
+#fw_getynet .fw_profile img {
+	width:100%;
+}
+
+@media (min-width:480px) {
+	#fw_getynet .fw_profile_name {
+		display:inline-block;
+		margin-right:10px;
+	}
+}
+
+@media (min-width:860px) {
+	#fw_getynet .fw_profile {
+		padding-top: 19px;
+		font-size:16px;
+	}
+}
+
+#fw_getynet.alternative .fw_mode_text {
+	font-size: 14px;
+	color: #fff;
+	line-height: 12px;
+	float: left;
+	padding: 20px 10px 15px 0px;
+}
+#fw_getynet.alternative #fw_change_mode_wrapper, #fw_getynet.alternative #fw_change_language_wrapper {
+	position: relative;
+	margin-left: 20px;
+	cursor: pointer;
+}
+#fw_getynet.alternative #fw_change_mode_wrapper .text, #fw_getynet.alternative #fw_change_language_wrapper .text {
+	font-size: 16px;
+	margin-left: 3px;
+	vertical-align: middle;
+}
+#fw_getynet.alternative .fw_mode_change, #fw_getynet.alternative .fw_language_change {
+	display: none;
+	background: #fff;
+	position: absolute;
+	z-index:1;
+	top: 100%;
+	margin-top:2px;
+	width: 100px;
+	color: #323232;
+	border: 1px solid #f1f1f1;
+	border-bottom: 0;
+	-webkit-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.15);
+	-moz-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.15);
+	box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.15);
+}
+#fw_getynet.alternative .fw_mode_change .btn, #fw_getynet.alternative .fw_language_change .btn {
+	width: 100%;
+	background-color:#fff;
+	background-image:none;
+	background: none;
+	border-bottom: 1px solid #f1f1f1;
+	padding: 5px 10px;
+}
+#fw_getynet.alternative .fw_mode_change .btn:hover, #fw_getynet.alternative .fw_language_change .btn:hover {
+	font-weight: bold;
+	color: #323232;
+	background: none;
+	/*background-color:rgba(0, 149, 228, 0.1);*/
+}
+#fw_getynet.alternative .fw_mode_change .btn.active, #fw_getynet.alternative .fw_language_change .btn.active {
+	font-weight: bold;
+	background: none;
+	box-shadow: none;
+}
+
+/*
+------------------------------------------------------------
+
+FW chat (chat icon)
+
+------------------------------------------------------------
+*/
+#fw_getynet.alternative .fw_chat_header_button {
+	padding: 15px 5px 13px 15px;
+}
+#fw_getynet .fw_chat_header_button .icon {
+	display:inline-block;
+	position:relative;
+	font-size:17px;
+	top:1px;
+}
+
+#fw_getynet .fw_chat_header_button.unread {
+	font-weight:bold;
+}
+#fw_getynet.alternative #fw_chat_header_button .icon-conversation {
+	display: inline-block;
+	width: 30px;
+	height: 20px;
+	background-image: url("elementsOutput/conversation.png");
+	background-size: contain;	background-repeat: no-repeat;
+}
+#fw_getynet.original .fw_chat_header_button.unread {
+	background:#fffabf;
+}
+#fw_getynet .fw_chat_header_button .message-count,
+#fw_getynet .fw_chat_header_button .channel-count {
+
+}
+#fw_getynet .fw_chat_header_button .topChatIconWrapper {
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
+	margin-right: 15px;
+}
+#fw_getynet .fw_chat_header_button .topChatIconWrapper .message-count,
+#fw_getynet .fw_chat_header_button .topChatIconWrapper .channel-count {
+	background: #e66a00;
+	color: #fff;
+	font-size: 10px;
+	border-radius: 20px;
+	display: inline-block;
+	padding: 2px 6px;
+	vertical-align: top;
+	top: 0px;
+	right: 0px;
+	margin-top: -5px;
+	margin-right: -12px;
+	position: absolute;
+	display: none;
+}
+
+
+/*
+------------------------------------------------------------
+
+FW account list (header button + list popup design)
+
+------------------------------------------------------------
+*/
+
+#fw_getynet .fw_account_list_button {
+	/*
+	Button is showed only on desktop / tablet landscape > 860px
+	on mobile or tablet portrait account list selector is under menu
+	*/
+	/*display:none;*/
+}
+#fw_getynet.alternative .fw_account_list_button {
+	padding: 15px 10px 11px 10px;
+}
+
+#fw_getynet .fw_account_list_button .title {
+	display:none;
+}
+
+#fw_getynet.original .fw_account_list_button.opened {
+	background:#F8F8F8;
+}
+
+#fw_getynet .fw_account_list_button .icon {
+	font-size:15px;
+	color: #0095E4;
+	margin-top:1px;
+	display:inline-block;
+}
+#fw_getynet.alternative .fw_account_list_button .icon {
+	color: #fff;
+}
+#fw_getynet.alternative .fw_menu_wrapper {
+	font-size: 16px;
+	padding: 13px 25px 13px 25px;
+	cursor: pointer;
+}
+#fw_getynet.alternative #fw_accounts_list_btn img {
+	width: 20px;
+}
+#fw_getynet.alternative #fw_accounts_list_btn .text {
+	margin-left: 10px;
+}
+#fw_account_list {
+	display:none;
+	position:fixed;
+	z-index:50;
+	top:70px;
+	right:0px;
+	bottom:0px;
+	width:370px;
+	background:#F8F8F8;
+	/*border-left:1px solid #dfdfdf;*/
+	overflow: hidden;
+	overflow-y: scroll;
+	box-shadow: -1px 1px 4px #CCC;
+	padding-top:80px;
+}
+#fw_getynet.alternative #fw_account_list {
+	top:50px;
+}
+
+#fw_account_list ul  {
+	padding:0;
+}
+
+#fw_account_list ul li.item  {
+	display:block;
+}
+#fw_account_list ul li.item a {
+	display:block;
+	padding:10px 25px;
+	border-bottom:1px solid #e4e1e1;
+	color:#707070;
+	font-size:14px;
+	text-decoration: none;
+	transition: 0.3s;
+}
+
+#fw_account_list ul li.item a:hover,
+#fw_account_list ul li.item a:focus {
+	background:#e9e9e9;
+	text-decoration: none;
+	outline:none;
+}
+
+#fw_account_list .search {
+	background:#FFF;
+	padding:20px;
+	right:0;
+	top:70px;
+	width:370px;
+	position:fixed;
+	border-bottom:1px solid #CCC;
+}
+#fw_getynet.alternative #fw_account_list .search {
+	top:50px;
+}
+
+#fw_account_list .search input {
+	width:100%;
+	border:1px solid #CCC;
+	padding:10px;
+	border-radius:5px;
+	outline: none;
+}
+#fw_account_list #accountlist_close {
+	background:#FFF;
+	padding:0;
+	right:352px;
+	top:72px;
+	z-index:1;
+	position:fixed;
+	font-size:16px;
+	cursor:pointer;
+}
+#fw_getynet.alternative #fw_account_list #accountlist_close {
+	top:52px;
+}
+@media (min-width:860px) {
+	#fw_getynet .fw_account_list_button .title {
+		display:inline-block;
+	}
+}
+
+/*
+------------------------------------------------------------
+
+FW settings icon
+
+------------------------------------------------------------
+*/
+#fw_getynet.alternative .fw_logout_menu_dropdown {
+	position: absolute;
+	top: 50px;
+	right: 0px;
+	z-index: 100;
+	min-width: 300px;
+	border-bottom: 1px solid #f5f5f5;
+	-webkit-box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.3);
+	-moz-box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.3);
+	box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.3);
+	background: #fff;
+	display: none;
+}
+#fw_getynet .fw_logout_button {
+	color:#0095E4;
+	font-size:15px;
+	/*width:70px;*/
+}
+#fw_getynet.alternative .fw_logout_button {
+	color:#333333;
+	font-size:15px;
+	height: auto;
+	display: block;
+	width: 100%;
+	text-align: left;
+	padding: 8px 15px 8px 15px;
+}
+
+@media (min-width:860px) {
+	#fw_getynet.original .fw_logout_button {
+		width:70px;
+	}
+}
+
+/*
+------------------------------------------------------------
+
+From old one
+
+------------------------------------------------------------
+*/
+
+#fw_getynet img.fw_toolbar {
+	padding-right:10px;
+	cursor:pointer;
+	border:none;
+}
+
+
+/*
+------------------------------------------------------------
+FW help center button and popup
+------------------------------------------------------------
+*/
+#fw_getynet .fw_help_center_button {
+	font-size:14px;
+	font-weight:bold;
+	 height: 70px;
+    padding: 26px 25px 0 25px;
+}
+#fw_getynet .fw_help_center_button .glyphicon {
+	font-size:1em;
+	color:#0095E4;
+}
+#helpcenter_popup {
+   background-color:#FFFFFF;
+   color:#111111;
+   display:none;
+   /*padding:25px 25px 35px;*/
+   width:100%;
+   top:0px !important;
+   /*overflow:hidden;*/
+}
+#helpcenter_popup .button {
+   background-color:#0393ff;
+   color:#fff;
+   cursor:pointer;
+   display:inline-block;
+   padding:10px 20px;
+   text-align:center;
+   text-decoration:none;
+}
+#helpcenter_popup .button:hover {
+   background-color:#1e1e1e;
+}
+#helpcenter_popup .button.b-close,
+#helpcenter_popup .button.bClose {
+   position:absolute;
+   background: transparent;
+   padding: 0px 9px;
+   color: #0393ff;
+   line-height: 25px;
+   font-size: 40px;
+   right:0px;
+   top:5px;
+   font-weight: normal;
+   transform: rotate(45deg)
+}
+.fw_help_center_button .glyphicon {
+	margin-right: 2px;
+}
+.fw_help_center_button .title {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #5D5D5D;
+	font-weight: normal;
+}
+@media (min-width:920px) {
+   #helpcenter_popup {
+	   border-radius:1px;
+	   /*padding:25px 25px 35px;*/
+	   width:900px;
+	   top: 100px !important;
+   }
+   #helpcenter_popup .button.b-close,
+   #helpcenter_popup .button.bClose {
+	   z-index:9999;
+   }
+}
+
+/*
+------------------------------------------------------------
+Onboarding popup
+------------------------------------------------------------
+*/
+#onboarding_popup {
+   background-color:#FFFFFF;
+   color:#111111;
+   display:none;
+   /*padding:25px 25px 35px;*/
+   width:100%;
+   top:0px !important;
+   /*overflow:hidden;*/
+}
+#onboarding_popup .button {
+   background-color:#0393ff;
+   color:#fff;
+   cursor:pointer;
+   display:inline-block;
+   padding:10px 20px;
+   text-align:center;
+   text-decoration:none;
+}
+#onboarding_popup .button:hover {
+   background-color:#1e1e1e;
+}
+#onboarding_popup .button.b-close,
+#onboarding_popup .button.bClose {
+   position:absolute;
+   background: transparent;
+   padding: 0px 9px;
+   color: #0393ff;
+   line-height: 25px;
+   font-size: 40px;
+   right:0px;
+   top:5px;
+   font-weight: normal;
+   transform: rotate(45deg)
+}
+.fw_help_center_button .glyphicon {
+	margin-right: 2px;
+}
+.fw_help_center_button .title {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #5D5D5D;
+	font-weight: normal;
+}
+@media (min-width:920px) {
+   #onboarding_popup {
+	   border-radius:1px;
+	   /*padding:25px 25px 35px;*/
+	   width:900px;
+	   top: 100px !important;
+   }
+   #onboarding_popup .button.b-close,
+   #onboarding_popup .button.bClose {
+	   z-index:9999;
+   }
+}
+
+/*Imaage orientation fix*/
+img {
+    image-orientation: from-image;
+}
+
+
+/*New mobile styling
+*/
+body.mobile #fw_getynet .fw_profile {
+	display: none;
+}
+body.mobile #fw_accounts_list_btn .text {
+	display: none;
+}
+body.mobile #fw_accounts_list_btn .text {
+	display: none;
+}
+body.mobile #fw_getynet.alternative .fw_chat_header_button {
+	display: none;
+}
+body.mobile #fw_getynet #fw_chat_header_button .desktop {
+	display: none;
+}
+body.mobile #fw_getynet #fw_chat_header_button .mobile {
+	display: block !important;
+	font-size: 17px;
+}
+body.mobile #fw_getynet.alternative .fw_menu_wrapper {
+	padding: 13px 15px 13px 15px;
+}
+body.mobile #fw_getynet.alternative #fw_menu_options {
+	padding: 13px 15px 13px 0px;
+}
+body.mobile #fw_getynet.alternative .fw_menu_wrapper.mobile {
+	display: block !important;
+}
+body.mobile #fw_getynet.alternative .fw_menu_wrapper.desktop {
+	display: none;
+}
+body.mobile #fw_getynet.alternative #fw_module_list_btn2 {
+	padding: 16px 15px 10px 15px;
+}
+body.mobile #fw_getynet.alternative #fw_account_list {
+	width: 100%;
+}
+body.mobile #fw_getynet.alternative #fw_account_list .search {
+	width: 100%;
+}
+body.mobile #fw_getynet.alternative #fw_account_list #accountlist_close {
+	right: 5px;
+}
+body.mobile #fw_container.alternative .fw_chat {
+	width: 100%;
+}
+body.mobile #fw_getynet .fw_logo {
+	padding: 14px 0 14px 16px;
+}
+body.mobile #fw_getynet.alternative #fw_change_mode_wrapper, body.mobile #fw_getynet.alternative #fw_change_language_wrapper {
+	margin-left: 5px;
+	padding: 15px 5px 11px 5px;
+}
+
+
+
+.fw_getynet_help_button {
+	color:#333 !important;
+	writing-mode:tb-rl;
+	-webkit-transform:rotate(-180deg);
+	-moz-transform:rotate(-180deg);
+	-o-transform: rotate(-180deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+	white-space:nowrap;
+	display:block;
+	position:absolute;
+	top:75px;
+	right:0;
+	width:32px !important;
+	height:80px !important;
+	font-size:14px;
+	font-weight:normal;
+	padding:10px 5px !important;
+	border:1px solid #d0d2d5;
+	box-shadow: -1px 1px 4px #CCC;
+	background-color:#ffffff;
+	border-top-right-radius:5px;
+	border-bottom-right-radius:5px;
+	z-index:50;
+}
+.fw_getynet_help_button .glyphicon {
+	writing-mode:tb-rl;
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	-o-transform: rotate(90deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+#fw-help-page-overlay {
+    background: rgba(0,0,0,0.4);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    display: none;
+	z-index:50;
+}
+#fw-help-page-popup {
+	display:none;
+	position:fixed;
+	z-index:51;
+	top:70px;
+	right:0px;
+	bottom:0px;
+	min-width:320px;
+	width:650px;
+	background:#F8F8F8;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	overflow-x: hidden;
+	box-shadow: -1px 1px 4px #CCC;
+	color:#313333;
+}
+#fw-help-page-popup .fw-hp-header {
+	background-color:#194273;
+	padding:10px 15px;
+	color:#ffffff;
+	font-size:14px;
+}
+#fw-help-page-popup .fw-hp-header .pull-right span {
+	margin-left:10px;
+	cursor:pointer;
+	padding:3px 5px;
+}
+#fw-help-page-popup .fw-hp-header .pull-right span.active,
+#fw-help-page-popup .fw-hp-header .pull-right span:hover {
+	font-weight:bold;
+	background-color:#8ca1b9;
+	border-radius:5px;
+}
+#fw-help-page-popup .fw-hp-breadcrumb {
+	padding-bottom:15px;
+}
+#fw-help-page-popup .fw-hp-breadcrumb .fw-hp-tab,
+#fw-help-page-popup .fw-hp-breadcrumb .fw-hp-related {
+	cursor:pointer;
+	font-size:13px;
+	padding:2px 0 2px 0;
+	color:#0095e4;
+}
+#fw-help-page-popup .fw-hp-breadcrumb .fw-hp-tab:hover 
+#fw-help-page-popup .fw-hp-breadcrumb .fw-hp-related:hover {
+	text-decoration:underline;
+}
+#fw-help-page-popup .fw-hp-content {
+	padding:15px 15px;
+	max-width:100%;
+}
+#fw-help-page-popup .fw-hp-content img {
+	max-width:100%;
+}
+#fw-help-page-popup .fw-hp-content .fw-hp-title {
+	font-size:15px;
+	padding-bottom:10px;
+	color:#313333;
+}
+#fw-help-page-popup .fw-hp-content .fw-hp-description {
+	font-size:12px;
+}
+#fw-help-page-popup .fw-hp-content .fw-hp-subtitle {
+	padding-top:20px;
+	color:#808080;
+	font-weight:bold;
+	font-size:12px;
+	padding-bottom:3px;
+}
+#fw-help-page-popup .fw-hp-content .fw-hp-related {
+	cursor:pointer;
+	font-size:13px;
+	padding:2px 0 2px 0;
+}
+#fw-help-page-popup .fw-hp-content .fw-hp-related:hover {
+	text-decoration:underline;
+}

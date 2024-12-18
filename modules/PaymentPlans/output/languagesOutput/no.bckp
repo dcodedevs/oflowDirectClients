@@ -1,0 +1,37 @@
+<?php
+$formText_FirstPaymentDate_Output="Første avdragsdato";
+$formText_MonthlyPayment_Output="Månedlig avdrag beløp";
+$formText_CollectingCase_Output="Sak";
+$formText_ResponsiblePerson_output="Ansvarlig person";
+$formText_LastSentLetter_Output="Sist sendte brev";
+$formText_Showing_Output="Viser";
+$formText_Of_output="av";
+$formText_ShowMore_output="Vis mer";
+$formText_ConfirmSetAsCompleted_output="Ønsker du å sette disse som fullført";
+$formText_ErrorUpdatingDatabaseForPlan_output="En feil oppstod ved oppdatering av nedbetalingsavtale";
+$formText_ErrorUpdatingDatabaseForPlanline_output="En feil oppstod ved oppdatering av nedbetalingsavtale linje";
+$formText_CompletedPlans_output="Fullført";
+$formText_InterruptedPlans_output="Avbrutt";
+$formText_Errors_output="Errors";
+$formText_BackToList_outpup="Tilbake til søkeresultat";
+$formText_PaymentPlan_output="Nedbetalingsavtale";
+$formText_Status_Output="Status";
+$formText_Active_output="Aktiv";
+$formText_Completed_output="Avsluttet";
+$formText_Interrupted_output="Misligholdt";
+$formText_TotalSumDue_Output="Saldo";
+$formText_StartDate_Output="Start dato";
+$formText_DueDate_Output="Forfallsdato";
+$formText_AmountToPay_Output="Beløp å betale";
+$formText_Payed_Output="Betalt";
+$formText_BalanceBeforePayment_Output="Saldo før betaling";
+$formText_BalanceAfterPayment_Output="Saldo etter betaling";
+$formText_ConfirmDeleteMessage_output="Ønsker du å slette meldingen";
+$formText_ProjectsCalendarWereUpdated_output="Prosjektkalender ble oppdatert";
+$formText_ProjectWithName_output="Prosjekt med navn";
+$formText_WereNotUpdatedDueToErrorsInTheirSettings_output="Ble ikke oppdatert pga feil i innstillinger";
+$formText_ProcessPayment_Output="Prosesser betaling";
+$formText_RecordsInSelection_output="Oppføringer i utvalg";
+$formText_ResetSearch_output="Nullstill søk";
+$formText_Search_output="Søk";
+?>

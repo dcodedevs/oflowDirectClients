@@ -1,0 +1,130 @@
+(8.218) 2018-07-13 ALI
+Reduced input LIB functionality and fixed module update relative path
+Module update backups functionality change
+Input updated
+
+(8.217) 2018-06-05 ALI
+Show warning when locking outdated account element
+
+(8.216) 2018-06-04 ALI
+Added element locking feature
+
+(8.215) 2018-05-03 ALI
+Updates in DumpDB functionality - added preselect
+
+(8.214) 2018-01-30 ALI
+Added functionality to compare with development account (excluding backup and uploads folder)
+
+(8.213) 2018-01-16 ALI
+Verify and update all account LIB elements.
+Order modules
+
+(8.212) 2018-01-03 ALI
+Added Extra mode and disabled Designer mode.
+
+(8.211) 2017-11-27 ALI
+Added DB field check on module update
+Make backup on input update in compressed file
+
+(8.210) 2017-08-14 ALI
+CRM email template moduletype added
+
+(8.209) 2017-07-21 ALI
+Added local module and system admin module mode functinality
+
+(8.208) 2017-07-11 ALI
+Put entiry account into library fix - permissions
+
+(8.207) 2017-07-05 ALI
+Put items into library changes
+
+(8.206) 2017-05-24 ALI
+Changes in checksum calculation
+
+(8.205) 2017-05-22 ALI
+Added module menu tables as pre-checked in DB dump
+Added folder structure checksum check when updating module and when puting element in library
+
+(8.204) 2017-03-27 ALI
+Added file comparing report
+
+(8.203) 2017-02-13 ALI
+Fixed update also for different named modules (not like in library)
+
+(8.202) 2017-02-10 ALI
+Fixed db dump script
+
+(8.201) 2016-11-04 ALI
+Fixed object update and verification
+
+(8.200) 2016-10-26 ALI
+DB secured connection
+
+(8.21) 2016-09-23 ALI
+Excludes for entire account upload
+
+(8.20) 2016-09-20 ALI
+Fixed central library api url (secure connection)
+
+(8.19) 2016-09-06 ALI
+Update and verify account elements
+
+(8.18) 2016-07-26 ALI
+Updating input group selection change.
+Added verify module functionality
+
+(8.17) 2016-07-22 ALI
+Changes Dump DB functionality - create replace data dump.
+
+(8.16) 2016-06-22 ALI
+Changes in central.lib updates and new UI look
+
+(8.15) 2016-06-14 ALI
+Dump account DB fix
+
+(8.14) 2016-04-06 ALI
+Dump account DB with table data as an extra
+
+(8.13) 2015-12-30 ALI
+Changes in module mode change
+
+(8.12) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.11) 2015-11-13 ALI
+Changes in connected users - new table
+Default module menu set
+
+(8.10) 2015-11-11 ALI
+New: Grouped system modules/objects and other modules
+New: Module menu order and grouping
+New: Module type as dropdown
+New: System module/object update compare page
+Fix: Permission fix to put objects in library
+
+(8.09) 2015-10-16 ALI
+New: Update system modules as whole object. 
+
+(8.08) 2015-10-16 ALI
+New: Update input from central library and update system modules 
+
+(8.07) 2015-09-30 ALI
+New: put item in central library
+
+(8.06) 2015-08-19 ALI
+Changes because of central library folder structure changes
+
+(8.05) 2015-07-14 ALI
+Fixed ftp issues 2
+
+(8.04) 2015-07-10 ALI
+Fixed ftp issues
+
+(8.03) 2015-07-07 ALI
+Add and update modules from central library
+
+(8.02) 2015-06-25 ALI
+Fix
+
+(8.00) 2015-06-20 ALI
+New framework version

@@ -1,0 +1,572 @@
+(8.285) 2022-05-03 ALI
+SEO part special character escape fix
+
+(8.284) 2022-05-02 ALI
+PHP8.1 and DB compatibility issue fixed for fieldtypes
+
+(8.283) 2022-04-28 ALI
+PHP8.1 updates in fieldtypes and edit field settings
+
+(8.282) 2022-04-08 ALI
+Jquery 3.6.0 compatibility updates and table index fix when empty name
+
+(8.281) 2022-04-06 ALI
+Fixed functionality when uploading file with space in front
+
+(8.280) 2022-03-22 ALI
+Jquery 3.6.0 compatibility
+
+(8.279) 2022-03-18 ALI
+Delete functionality fixed and SEO data retrieve on low network speed
+
+(8.278) 2022-03-08 ALI
+PHP8 compatibility updates
+
+(8.277) 2022-03-07 ALI
+Fixed URL menu part splitter config
+
+(8.276) 2022-02-03 ALI
+Fixed image fieldtype
+
+(8.275) 2022-02-03 ALI
+PHP8 compatibility updates
+
+(8.270) 2022-01-25 ALI
+URL menu part splitter config added
+
+(8.269) 2021-10-15 ALI
+Fixed incorrect code in input/input.php line 81
+
+(8.268) 2021-10-15 ALI
+Fixed incorrect code in input/input.php line 51 related to json_decode
+
+(8.267) 2021-10-14 ALI
+Fixed get_curent_GET_params function parameters optional
+
+(8.263) 2021-09-01 ALI
+Added alternative text for images
+
+(8.262) 2021-08-18 BO
+Added description and label for input fields for account and basis config tables
+
+(8.261) 2021-04-21 BO
+Added module width setting for tables
+
+(8.260) 2021-03-31 ALI
+Count empty output language variables just for default output language
+
+(8.259) 2021-03-29 ALI
+Count empty output language variables in buttons line
+
+(8.258) 2021-02-10 ALI
+Improved edit input language performance
+
+(8.257) 2021-01-25 ALI
+Added show empty language variables in Input/Output
+
+(8.256) 2021-01-15 BO
+updated order form submit to be ajax in sublists
+
+(8.255) 2021-01-15 ALI
+Fixed functionality in edit relation to not loose language variable for existing relations
+
+(8.254) 2020-11-10 ALI
+Added functionality to have external table views
+
+(8.253) 2020-06-05 ALI
+Additions to show helptext for output language variables
+
+(8.252) 2020-06-01 ALI
+Added functionality to show helptext for output language variables
+
+(8.251) 2020-02-25 ALI
+Added functionality to check is there content processed before saving
+
+(8.250) 2019-10-03 ALI
+Added functionality to close opened items after page reload
+
+(8.249) 2019-09-16 BO
+Added AccessToken fieldtype, fixed javascript issue with explode
+
+(8.248) 2019-08-08 ALI
+Updated delete script
+
+(8.247) 2019-07-10 BO
+Access elements output language variables
+
+(8.246) 2019-07-10 BO
+Fix for the relation editing
+
+(8.244) 2019-06-14 ALI
+Change output language sync to central
+
+(8.243) Sindre ???
+
+(8.242) 2019-05-29 ALI
+Sublist fix for new File and Image fieldtype UI changes
+
+(8.241) 2018-10-04 ALI
+Fixed SEO field editing in middle issue in Safari
+
+(8.240) 2018-08-17 ALI
+Fixed FTP commands and change input/output language
+Removed output settings
+PHPMailer version update
+
+(8.239) 2018-08-10 ALI
+Added extended content access functionality
+
+(8.238) 2018-07-13 ALI
+FTP commands update on /storage/www
+
+(8.237) 2018-07-11 ALI
+Added reduce input setting for library version creation
+
+(8.236) 2018-07-02 BO
+Input list/sublist fixed for invoice link
+
+(8.235) 2018-05-09 PSH, ALI
+PSH: added jump fix for jump first page setting
+PSH: updates of savebuttons, slide in savebutton now jumps back to position after saving
+ALI: corrections in databasefieldcheck (update account error)
+
+(8.234) 2018-03-29 ALI
+Performance improvements, new Color fieldtype, Links fieldtype update.
+
+(8.233) 2018-03-06 ALI
+Added Dropdown, Radiobutton and RadiobuttonAdv fieldtype DB comments for value explanation
+
+(8.232) 2018-03-05 ALI
+Fixed list pagination (changed variable name)
+
+(8.231) 2018-03-01 ALI
+Added activate Open Graph functionality
+Extended SEO description length
+
+(8.230) 2018-01-09 ALI
+Fixed list search in multi-table fields
+
+(8.229) 2017-12-06 ALI
+Added delete all subcontent setting with one button
+Updated fieldtype RelatedSearch
+
+(8.228) 2017-12-05 BO
+Updates to automatically open previously opened sublist content while editing
+
+(8.227) 2017-12-04 ALI
+Updates for saving choosen menupoint for URL generator.
+
+(8.226) 2017-11-02 ALI
+Updates in table relation and linking to module id (module in module implementation)
+
+(8.225) 2017-10-05 ALI
+Fixed second column width set when loading on page reload
+Fixed search issues
+
+(8.224) 2017-10-02 ALI
+Added menulevel configuration - menu level depth
+Added in content list filter by menu option to find not connected content
+Changed search method to search by field, list fields or all fields
+
+(8.223) 2017-09-27 ALI
+Table access fix (system_admin)
+
+(8.222) 2017-09-11 ALI
+Updates in list regarding sorting
+
+(8.221) 2017-08-14 ALI
+CRM email template moduletype added
+
+(8.220) 2017-07-24 ALI
+Admin and System admin functionality changes
+
+(8.219) 2017-07-21 ALI
+Local module naming
+
+(8.218) 2017-07-05 ALI
+FTP command update (fix)
+
+(8.217) 2017-06-20 ALI
+UTF-8 character support for restricted content access.
+Changes in restricted content access.
+Removed files from fieldtypes which are not in use.
+Fixed image special character issue for focuspoint
+Updates regarding list url (added back list before menu name with translation)
+
+(8.216) 2017-06-08 ALI
+Added restricted content access
+
+(8.215) 2017-05-26 ALI
+After subcontent sorting return to edit page.
+List URL change to menupoint name without list.
+
+(8.214) 2017-05-05 ALI
+Fixed list filter by moduleID
+
+(8.213) 2017-03-22 ALI
+Fixed duplicate button reset
+
+(8.212) 2017-03-14 ALI
+Added back content table relation dropdown in table relation
+
+(8.211) 2017-02-23 BO
+Added sublist data sorting
+
+(8.210) 2017-02-20 ALI
+Fixed addon include on content delete
+
+(8.209) 2017-02-13 ALI
+Extra info on table field settings (list)
+
+(8.208) 2017-02-07 ALI
+Index create fix for text type fields
+
+(8.207) 2017-01-29 ALI
+Added and fixed filter by menu
+
+(8.206) 2016-12-02 ALI
+Fixed content saving access issue
+
+(8.205) 2016-11-15 ALI
+Fixed listing of next pages and return to back after save
+
+(8.204) 2016-11-14 ALI
+Rollback field/table protect_identifiers to escape_name
+
+(8.203) 2016-11-04 ALI
+Replaced field/table escape to protect_identifiers
+
+(8.202) 2016-11-04 ALI
+Fixed field checking issue regarding new db connection cache problems
+
+(8.201) 2016-10-26 ALI
+Major fixes after update
+
+(8.200) 2016-10-25 ALI
+Secure DB connection
+
+(8.136) 2016-08-22 ALI
+Fix: Edit field block expand/collapse on header click
+
+(8.135) 2016-08-22 ALI
+Fix: Duplicate content for multi-language fields (table).
+
+(8.134) 2016-07-08 ALI
+Change: Table relation redesign
+Fix: After deleting sublist item, return to editing page
+
+(8.133) 2016-06-17 ALI
+Change: jump to first page on all modules and in developer mode
+
+(8.132) 2016-06-16 ALI
+Fix: Invoice link in list and sublist
+
+(8.131) 2016-06-09 ALI
+Fix: Show page button in edit page of content
+Updates for readOutputLanguage
+
+(8.130) 2016-04-13 ALI
+Fix: Sublist -> more rows -> delete sub-content get confirm box
+
+(8.129) 2016-03-18 ALI
+Fix: PDF Invoice download fix in sublist
+Added: RelatedIDLayer fieldtype custom display in list/sublist
+
+(8.128) 2016-02-27 ALI
+Fix: button handle before sublist in edit page
+
+(8.127) 2016-02-24 ALI
+Fix: when history activated, load and handle content just once. (temporary tables removed)
+
+(8.126) 2016-02-11 ALI
+Fix: use GET variables for base url
+
+(8.125) 2016-02-03 ALI
+Changes in list - invoice pdf download
+Read input language code cleanup
+Read output language code cleanup
+
+(8.124) 2016-01-22 ALI
+Fixed CSS naming of edit page group columns
+RelatedIdLayer: Changes: auto focus in search field when popup opened
+
+(8.123) 2016-01-11 ALI
+Updates for ReminderEmail fieldtype
+Removed wrong line in table field ajax request where connect to wrong dbconnect file.
+
+(8.122) 2016-01-08 ALI
+Fix: delete sub-content js change to delete by ajax
+
+(8.121) 2015-12-30 ALI
+Changes in system log functionality
+
+(8.120) 2015-12-29 ALI
+Added system log functionality
+
+(8.119) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.118) 2015-12-18 ALI
+Owner access feature implement
+
+(8.117) 2015-12-09 ALI
+sendPdf fix
+
+(8.116) 2015-12-08 ALI
+SmsSend: AckUrl detection
+Contentreg: account url set
+
+(8.115) 2015-12-07 ALI
+Changes in Email and Sms send from module
+
+(8.114) 2015-12-02 ALI
+Fixed SEO URL updates (again)
+
+(8.113) 2015-12-02 ALI
+Added English and Norwegian translation files for input
+Changed standardtablefile
+Fixed SEO URL updates (again)
+
+(8.112) 2015-11-17 ALI
+Content status: url fix
+
+(8.111) 2015-11-17 ALI
+Content status filter in relation and button
+
+(8.110) 2015-11-02 ALI
+Fix for edit indexes
+
+(8.109) 2015-11-02 ALI
+Implemented EditIndexes and $moduledatatype
+
+(8.108) 2015-10-27 ALI
+Implemented RelatedIDLayer fieldtype new features
+Fixed SEO URL updates
+Fixed s_default_output_language in list.php
+
+(8.107) 2015-10-23 ALI
+Fixed search form in list
+
+(8.106) 2015-10-22 ALI
+Added $thisDatabaseFieldExtra functionality for fieldtypes
+Added SEO url split parts save in DB
+Added SEO url editing options
+Removed list menu button after search
+Empty content row in list replace with noname value
+
+(8.105) 2015-10-20 ALI
+Save2 button fix
+
+(8.104) 2015-10-15 ALI
+Added content_status functionality (active, inactive, deleted, history)
+Added safe delete functionality
+Save2 button fix
+
+(8.032) 2015-10-09 ALI
+Added $s_default_output_language variable and used it for lists
+
+(8.031) 2015-10-01 ALI
+Added $content_id variable in listings for button use.
+
+(8.030) 2015-09-23 ALI
+Fixed strip_tags from sublist delete data-name attribute
+
+(8.029) 2015-09-16 ALI
+Fixed $preblocks merge issue when merging empty free_fields
+
+(8.028) 2015-09-11 ALI
+Multi-language tabs for fields
+
+(8.027) 2015-08-26 ALI
+Button config fix ( "_" => ":" )
+
+(8.026) 2015-08-20 ALI
+Edit content in popup updates
+
+(8.025) 2015-08-10 ALI
+Edit page save button changes
+
+(8.024) 2015-07-15 ALI
+ChooseToUpdate fix (include_local)
+
+(8.023) 2015-07-15 ALI
+Underscore support in table relation
+
+(8.022) 2015-07-08 ALI
+Space and underscore handler for creating new table and field.
+
+(8.021) 2015-06-28 ALI
+Scroll fix
+
+(8.020) 2015-06-11 ALI
+added session and permission check for ajax search
+
+(8.019) 2015-06-11 ALI
+fixed issue with ajax search settings
+
+(8.018) 2015-06-11 ALI
+Added ajax search and ajax scroll in list.php, added new file list_ajax.php
+
+(8.017) 2015-06-11 ALI
+SEO fix in edit.php and show page button fix
+
+(8.016) 2015-06-10 ALI
+SEO fix for single language
+
+(8.015) 2015-06-09 ALI
+Removed menu buttons from standard - because in new FW its in addon
+
+(8.014) 2015-05-28 ALI
+Special character fix for fieldtypes.
+
+(8.013) 2015-05-28 ALI
+Sublist fixes
+
+(8.012) 2015-05-27 ALI
+Fixes
+
+(8.011) 2015-05-25 ALI
+Fix error handling on form save
+
+(8.010) 2015-05-22 ALI
+Session fix and url fix
+
+(8.009) 2015-05-14 ALI
+Fix FW layout on SEO changes
+Implemented enableEmptySeoUrl
+Implemented button (save) panel in edit page
+
+(8.008) 2015-05-12 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.342) 2015-01-29 ALI
+Comment fix in ftp_commands
+
+(7.341) 2015-01-13 ALI
+Sending: Fixed when more prefilter narrow down source
+
+(7.340) 2014-12-16 ALI
+Make first input/output language as default if not selected as default (fnctn_get_all_languages).
+
+(7.339) 2014-12-15 ALI
+Bypassed return_url to edit input - to return to output. base64_encoded.
+
+(7.338) 2014-12-03 ALI
+Fixed Translate from to show html for change input and output language
+
+(7.337) 2014-12-02 ALI
+Final fix for find relation
+
+(7.336) 2014-12-01 ALI
+Fixed: Break on 200 iterations relation checking loop - need to rewrite code!
+
+(7.335) 2014-11-30 ALI
+Fixed: When SEO url autofill selected just menu - reset seourl field
+
+(7.334) 2014-11-28 ALI
+Fixed paging in list and parent display in editing page header
+
+(7.333) 2014-11-28 ALI
+Added SEO google preview link clickable
+
+(7.332) 2014-11-28 ALI
+Added SEO setting: disableSeoUrlEditing, activateSeoHeadingPreview
+
+(7.331) 2014-11-28 ALI
+Sending email/sms/pdf - preload users preselected in source list
+
+(7.330) 2014-11-26 ALI
+Fixed button deletion in table settings
+
+(7.329) 2014-11-20 ALI
+Fixed paging
+Removed old table settings items
+Removed languages and output setting Yes/No from settings and show them for developer and designer always
+Show proper module name and table in sublist when module name label is not set.
+
+(7.328) 2014-11-13 ALI
+Added: custom userlist in sending
+
+(7.327) 2014-11-07 ALI
+Change input and output language fix - local include
+Developer language - English
+Send email, SMS, PDF show selected users
+
+(7.326) 2014-10-29 ALI
+SendEmail addslashes on email storing in DB
+
+(7.325) 2014-10-22 ALI
+Paging and search restore after content save.
+
+(7.324) 2014-10-20 ALI
+Completed move from admin to framework
+
+(7.323) 2014-10-20 ALI
+Admin button fix - show just for developer
+
+(7.322) 2014-10-15 ALI
+Fixed Edit table settings to work from framework
+
+(7.321) 2014-10-08 ALI
+Added button configuration in table settings (Edit input/output language and output settings)
+Added addOn_include folder override include
+
+(7.320) 2014-10-02 ALI
+Outputlanguage usage
+
+(7.315) 2014-10-02 ALI
+Fixed email tracking table create
+
+(7.314) 2014-09-26 ALI
+Fixed menu sublevel bypass delete text translation variable
+
+(7.313) 2014-09-25 ALI
+Fixed order content sql for menu connection (using pageID not content.menulevel)
+
+(7.312) 2014-09-24 ALI
+Added email tracking feature in sendemail report
+
+(7.311) 2014-09-23 ALI
+Fixed order content sql bypassing escape htmlspecialchars and urlencode
+
+(7.310) 2014-09-03 ALI
+Fixed: in list and sublist show correct id
+
+(7.309) 2014-09-02 ALI
+Fixed: delete.php file was iso encoded - changed to utf
+Fixed: seo url autocomplete for MenuconnectionAdv
+
+(7.308) 2014-09-02 ALI
+Fixed order content select bypassing (in base64_encode format)
+
+(7.307) 2014-09-01 ALI
+Fixed input layout position
+
+(7.306) 2014-08-25 ALI
+MenuconnectionAdv fix for getting correct menulevelID
+
+(7.305) 2014-08-21 ALI
+SEO h1 and h2 headings
+
+(7.304) 2014-08-12 ALI
+Sorting fix in list
+
+(7.303) 2014-07-29 ALI
+Updated SEO with keywords and merge title with menu in SEO title feature
+Implemented multi-language field display in list and sublist
+
+(7.302) 2014-07-07 ALI
+Change output language fix
+
+(7.301) 2014-07-07 ALI
+Read input language fix
+
+(7.300) 2014-07-07 ALI !!!
+Creating new EDITION
+Output folders are located in folders with output_ beginning
+Input folders are with beginning input and addOn_
+
+
+(7.264) 2014-06-01 ALI
+Starting from input version 7.264 SEO URLs are stored in DB (sys_htaccess).
+If you update module to latest version, you must update all modules so it stores links in one place. In addition index.php should be updated from accountsEmpty_72.

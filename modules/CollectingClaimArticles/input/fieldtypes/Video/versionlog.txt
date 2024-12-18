@@ -1,0 +1,10 @@
+(8.23) 2019-07-08 ALI
+Implemented back-compatibility
+
+(8.22) 2019-07-28 ALI
+Content saving moved to CDN server
+
+...
+
+(8.20) 2019-04-01 BO
+Initial fieldtype

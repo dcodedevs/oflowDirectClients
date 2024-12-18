@@ -1,0 +1,3 @@
+<?php
+$sys_table_indexes = array('creditor_id:key:collecting_cases_report_24so:creditor_id', 'printed_amount_reported:key:collecting_cases_report_24so:printed_amount_reported', 'total_fees_payed_reported:key:collecting_cases_report_24so:total_fees_payed_reported', 'sent_without_fees_reported:key:collecting_cases_report_24so:sent_without_fees_reported', 'fees_forgiven_amount_reported:key:collecting_cases_report_24so:fees_forgiven_amount_reported');
+?>

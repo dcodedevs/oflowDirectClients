@@ -1,0 +1,66 @@
+(10.03) 2023-06-13 ALI
+Fixed multi-tenant for link table
+
+(10.02) 2023-01-24 ALI
+Back-compatibility changes
+
+(10.01) 2023-01-05 ALI
+Multi-tenant account updates
+
+(8.23) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.22) 2016-11-14 ALI
+Rollback field/table protect_identifiers to escape_name
+
+(8.21) 2016-11-04 ALI
+Replaced field/table escape to protect_identifiers
+
+(8.20) 2016-10-25 ALI
+Secure DB connection
+
+(8.08) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.07) 2015-12-01 BO
+Fixed sql and selected item detection
+
+(8.06) 2015-10-15 ALI
+Added $content_status functionality
+Added multi-language table support
+
+(8.05) 2015-10-15 ALI
+Added $content_status functionality
+
+(8.04) 2015-10-09 ALI
+Updated description about single language use restriction
+
+(8.03) 2015-09-02 ALI
+Fixed get value with contentTable = 'single' when current module table is multi-language.
+
+(8.02) 2015-05-29 ALI
+Special character fix in input
+
+(8.01) 2015-05-22 ALI
+Session fix
+
+(8.00) 2015-03-24 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.05) 2014-10-02 ALI
+Fieldtype version update
+
+(7.04) 2014-06-30 ALI
+Relation table auto-create
+
+(7.03) 2013-11-13 ALI
+FIX: removed closing sign in select open tag
+
+(7.02) 2013-08-29 ALI
+Fixed no-integer save in relation table
+
+(7.01) 2013-08-15 ALI
+Updated AccessLevel handle
+
+(6.01) 2011-07-05 ALI
+Added type.

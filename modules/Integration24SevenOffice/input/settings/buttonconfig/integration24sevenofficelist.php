@@ -1,0 +1,3 @@
+<?php
+$prebuttonconfig = "Add:{$formText_Add_module}:AddItem:integration24sevenoffice:0:0:Integration24SevenOffice:¤Sync invoices:{$formText_SyncInvoices_module}:SyncInvoice:integration24sevenoffice:0:0:Integration24SevenOffice:¤Sync single customer to external system:{$formText_SyncSingleCustomerToExternalSystem_module}:SyncCustomer:integration24sevenoffice:0:0:Integration24SevenOffice:¤Sync customers from external system:{$formText_SyncCustomersFromExternalSystem_module}:SyncCustomerFromExternal:integration24sevenoffice:0:0:Integration24SevenOffice:¤";
+?>

@@ -1,0 +1,11 @@
+(8.03) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.02) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.01) 2015-10-22 ALI
+Default status for new content changed to active
+
+(8.00) 2015-10-13 ALI
+Added type.

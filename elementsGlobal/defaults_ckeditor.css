@@ -1,0 +1,36 @@
+/*
+ * for any questions ask
+ * niko@dcode.no
+ *
+ * READ THIS
+ * in this file please include "ck_" in front of class name for style classes
+ * that are used in CKEDITOR and on currect ACCOUNT
+ */
+
+/* resetting tags */
+p {
+	padding:0;
+	margin:0;
+}
+h1, h2, h3 {
+	padding:0;
+	margin:0;
+	font-weight:400;
+}
+/* styling Style */
+.ck_dark {
+	color:#000;
+}
+.ck_red {
+	color:#F00;
+}
+/* styling Format */
+.ck_h1 {
+	font-size:20px;
+}
+.ck_h2 {
+	font-size:25px;
+}
+.ck_h3 {
+	font-size:30px;
+}

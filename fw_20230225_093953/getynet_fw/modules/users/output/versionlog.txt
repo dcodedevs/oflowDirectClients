@@ -1,0 +1,76 @@
+(8.27) 2018-01-02 ALI
+Added in FrameworkSettings basisconfig and updated Framework
+
+(8.26) 2017-09-27 ALI
+Changed group access editing for multiple accounts in same time
+Allowed System_admin access editing only for similar user.
+
+(8.25) 2017-09-22 ALI
+Updates in channel functionality (user access)
+
+(8.24) 2017-08-01 ALI
+Channel functionality added in user admin
+
+(8.23) 2017-07-24 ALI
+Admin and System admin functionality changes
+
+(8.22) 2017-06-20 ALI
+Changes in restricted content access
+
+(8.21) 2017-06-08 ALI
+Added restricted content access
+
+(8.20) 2016-10-14 ALI
+Secured DB connection
+
+(8.02) 2016-08-09 ALI
+Added: owner access also for group access
+
+(8.01) 2016-06-27 ALI
+Changes in show_owner_access_restrict
+
+(8.00) 2016-06-22 ALI
+NEW VERSION
+LOT OF CHANGES
+
+(7.149) 2015-01-13 ALI
+Fixed: Return to userlist after save (not to session returl)!
+
+(7.148) 2014-12-01 ALI
+Changed: My profile edit - excludeIPAddressCheck to oposite: IPAddressCheck
+
+(7.147) 2014-10-17 ALI
+Added developer access
+
+(7.146) 2014-09-16 ALI
+My profile edit - excludeIPAddressCheck
+
+(7.145) 2014-08-04 ALI
+My profile edit - language list from getynetDB
+
+(7.144) 2014-07-31 ALI
+Fixed framework language load for ajax files
+
+(7.143) 2014-07-31 ALI
+Fixed URL redirects for profile saving
+
+(7.142) 2014-03-03 ALI
+Fixed URL redirects for user saving
+
+(7.141) 2014-01-20 ALI
+Replaced $_SESSION authentification
+
+(7.14) ?
+
+(7.13) 2013-11-20 ALI
+Changes in not using getynet db anymore
+
+(7.12) 2013-10-23 ALI
+Updated all links and form to use framework standard parameters
+
+(7.11) 2013-18-10 PSH
+Adding last login info to membersystemlist
+
+(7.1) 2013-12-09 PSH
+Starting logging version.
+Updated group edit file.

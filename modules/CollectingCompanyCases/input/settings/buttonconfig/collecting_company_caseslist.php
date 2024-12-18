@@ -1,0 +1,3 @@
+<?php
+$prebuttonconfig = "CreatePaymentClaimLine:{$formText_Createpaymentclaimline_module}:CreatePaymentClaimLines:collecting_company_cases:0:0:CollectingCompanyCases:¤Fix stopped cases data:{$formText_FixStoppedCasesData_module}:FixStoppedCaseData:collecting_company_cases:0:0:CollectingCompanyCases:¤Mark due date issue:{$formText_MarkDueDateIssue_module}:MarkDueDateIssue:collecting_company_cases:0:0:CollectingCompanyCases:¤Show cases with payment before the case:{$formText_ShowCasesWithPaymentBeforeTheCase_module}:ShowCasesWithPaymentBeforeTheCase:collecting_company_cases:0:0:CollectingCompanyCases:¤";
+?>

@@ -1,0 +1,31 @@
+<?php
+$formText_ReportHistory_output="Historikk";
+$formText_ReportId_output="Rapport id";
+$formText_Created_output="Opprettet";
+$formText_InvoicesCount_output="Antall fakturaer";
+$formText_CurrentReport_output="Denne rapport";
+$formText_ViewReport_output="Vis rapport";
+$formText_NumberOfNewlyAddedInvoices_output="Antall nylig opprettede fakturaer";
+$formText_CreateReportForNewlyAddedElements_output="Lag rapport for nylig opprettede elementer";
+$formText_Invoices_output="Fakturaer";
+$formText_OwnerCompany_output="Faktura fra firma";
+$formText_Text_Output="Tekst";
+$formText_Price_Output="Pris";
+$formText_Amount_Output="Antall";
+$formText_Discount_Output="Rabatt";
+$formText_Vat_Output="Mva";
+$formText_TotalPrice_Output="Pris total";
+$formText_InvoiceDate="Fakturadato";
+$formText_DueDate="Forfallsdato";
+$formText_DivideOnDays_outputper="Fordeles på dager";
+$formText_DateFrom_output="Dato fra";
+$formText_DateTo_output="Dato til";
+$formText_DivideOnMonths_outputper="Fordeles på måneder";
+$formText_Month_output="Mnd";
+$formText_MonthFrom_output="Mnd fra";
+$formText_MonthTo_output="Mnd til";
+$formText_SumWithoutVat_Output="Sum uten mva";
+$formText_Total_Output="Total";
+$formText_NoNewlyCreatedInvoices_output="Ingen nylig opprettede fakturaer";
+$formText_BackToInvoiceReport_Output="Tilbake til fakturarapport";
+?>

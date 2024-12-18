@@ -1,0 +1,14 @@
+(10.02) 2023-01-24 ALI
+Back-compatibility changes
+
+(10.01) 2023-01-05 ALI
+Multi-tenant account updates
+
+(8.22) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.21) 2017-03-14 ALI
+Fixed hardcoded relation fields to settings and changed setting structure and description
+
+(8.20) 2017-02-11 ALI
+Added type.

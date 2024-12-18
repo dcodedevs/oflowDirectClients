@@ -1,0 +1,3 @@
+<?php
+$prefields = array("id¤id¤{$formText_id_settings}¤sys_modulemenuusers¤ID¤¤¤¤¤1¤0¤0¤0¤0¤0¤¤¤¤¤","content_status¤sys_modulemenuuserscontent_status¤{$formText_ContentStatus_input}¤sys_modulemenuusers¤ContentStatus¤¤¤¤¤1¤0¤¤1¤1¤0¤¤¤","username¤sys_modulemenuusersusername¤{$formText_Username_accounts}¤sys_modulemenuusers¤Textfield¤¤¤¤¤0¤0¤¤1¤1¤0¤0¤¤","set_id¤sys_modulemenuusersset_id¤{$formText_SetId_accounts}¤sys_modulemenuusers¤ID¤¤¤¤¤0¤0¤¤1¤1¤0¤0¤¤");
+?>

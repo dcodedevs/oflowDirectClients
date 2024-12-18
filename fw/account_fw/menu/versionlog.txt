@@ -1,0 +1,117 @@
+(8.27) 2018-05-15 ALI
+Fixed user kick-out after access removal
+
+(8.26) 2018-02-05 ALI
+Menu layout changes
+
+(8.25) 2018-01-31 ALI
+Statistic activation changed
+
+(8.24) 2018-01-16 ALI
+Fixed cached menu access saving
+
+(8.23) 2018-01-04 ALI
+Improved performance for updating user session.
+
+(8.22) 2017-07-24 ALI
+Admin and System admin functionality changes
+
+(8.21) 2017-07-20 ALI
+Updates for module menu - "show after module" and "local module name"
+
+(8.20) 2016-10-13 ALI
+DB connection secured
+
+(8.17) 2016-06-22 ALI
+Changes in account module list by ajax
+
+(8.16) 2016-06-20 ALI
+Deactivated module in _accountconfig
+
+(8.15) 2016-05-19 ALI
+Moved setting $variables parameters to main index file
+
+(8.14) 2016-05-07 RA
+CSS updates for module list menu
+
+(8.13) 2016-03-31 ALI
+Removed SESSION usage
+
+(8.12) 2016-03-23 ALI
+Retrieve account module list by ajax.
+
+(8.11) 2016-02-04 ALI
+fwbaseurl removal fix
+
+(8.10) 2015-12-18 ALI
+Owner access feature implement
+
+(8.09) 2015-12-16 ALI
+Hide deactivated modules in customer menu
+
+(8.08) 2015-11-13 ALI
+Module menu changes - user connection
+
+(8.07) 2015-11-11 ALI
+Module menu changes
+
+(8.06) 2015-10-28 ALI
+Confirm delete button
+Layout changes
+
+(8.05) 2015-08-10 ALI
+Edit page save buttons layer changes
+
+(8.04) 2015-06-16 ALI
+Uncommented framework layout column width setters!
+
+(8.03) 2015-06-12 ALI
+Alert functionality changes
+
+(8.02) 2015-06-12 ALI
+Tag a fix - script executes only when href attribute is set
+
+(8.01) 2015-05-15 ALI
+Scroll fix
+Button (save) panel position fix
+
+(8.00) 2015-04-14 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.148) 2014-11-21 ALI
+In Developer/Designer access by default show input and name in menu from moduledata table.
+
+(7.147) 2014-10-17 ALI
+Added developer access
+
+(7.146) 2014-07-31 ALI
+Fixed auto height for account list
+
+(7.145) 2014-05-22 PSH
+Added functionality to list level to from module content if setting is set in module.
+
+(7.144) 2014-03-03 ALI
+Saved fullpath returnurl in session_framework
+
+(7.143) 2014-02-06 ALI
+Replaced sun symbol with line breaks in account list.
+
+(7.142) 2014-01-20 ALI
+Replaced $_SESSION authentification to cookie
+
+(7.141) 2013-12-20 ALI
+Fixed optimize url to correctly parse %27 (single quota) sign
+
+(7.14) 2013-11-20 ALI
+Moved cache to account session_framework table
+Replaced available account list to load by request
+
+(7.13) 2013-10-21 ALI
+Cache account list and account menu
+
+(7.12) 2013-18-09 PSH
+Big update. Many small updates regarding membersystem, external page accountlist ++
+
+(7.1) 2013-12-09 PSH
+Starting logging version.
+Updated to include membersystem module information in variable object. 

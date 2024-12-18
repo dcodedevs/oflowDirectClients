@@ -1,0 +1,9 @@
+<?php
+$accessElementAllow_AddEditDeletePeople_description="";
+$accessElementAllow_EditPersonNumber_description="";
+$accessElementAllow_GiveRemoveAccessPeople_description="";
+$accessElementAllow_SendFilesToSignant_description="";
+$accessElementAllow_ViewDepartments_description="";
+$accessElementAllow_ExportPeople_description="";
+$accessElementAllow_ReadAllTagsAndGroups_description="";
+?>

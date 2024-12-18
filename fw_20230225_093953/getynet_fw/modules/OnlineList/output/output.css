@@ -1,0 +1,252 @@
+/*
+----------------------------------------------------------
+
+Contact List
+
+----------------------------------------------------------
+*/
+
+
+body.mobile .fw_contact_list {
+	display:none;
+}
+
+.fw_contact_list {
+	background:white;
+	border-left:1px solid #EFEFEF;
+	position:fixed;
+	z-index:40;
+	top:71px;
+	right:0px;
+	bottom:0px;
+	overflow:hidden;
+	overflow-y:scroll;
+	transition:0.15s;
+}
+.fw_contact_list_hidden {
+	display:none;
+}
+
+.fw_contact_list .icon {
+	color:#0497E5;
+}
+
+.fw_contact_list.collapsed .fw_contact_list_set_status form,
+.fw_contact_list.collapsed .fw_contact_list_filter.filter_groups .button,
+.fw_contact_list.collapsed .fw_contact_list_filter.filter_groups .filter_groups_checkboxes,
+.fw_contact_list.collapsed .fw_contact_list_filter.filter_search .fw_filter_search_field,
+.fw_contact_list.collapsed .fw_contact_list_filter.filter_search .button,
+.fw_contact_list.collapsed .info
+{
+	display:none;
+}
+
+.fw_contact_list .collapsed-icon {
+	text-align:center;
+	padding:25px 0;
+	height:60px;
+}
+
+.fw_contact_list.expanded .collapsed-icon {
+	display:none;
+}
+
+
+.fw_contact_list ul {
+	padding:0;
+	margin:0;
+}
+
+.fw_contact_list li {
+	display:block;
+}
+
+.fw_contact_list li a {
+	display:block;
+	padding:10px 20px;
+	position:relative;
+	text-decoration:none;
+	color:#333;
+	border-bottom:1px solid #EEE;
+	height:60px;
+}
+
+.fw_contact_list li a:hover,
+.fw_contact_list li a:focus
+{
+	display:block;
+	text-decoration:none;
+	background:#EEE;
+}
+
+.fw_contact_list li a:after{
+	display:block;
+	content: " ";
+	clear:both;
+}
+
+.fw_contact_list .image {
+	width:22%;
+	display:block;
+	float:left;
+}
+
+.fw_contact_list .image .crop {
+	overflow:hidden;
+	width:30px;
+	height:30px;
+	border-radius:4px;
+	display:block;
+	background:#EEE;
+	text-align:center;
+}
+
+.fw_contact_list .image .crop .shortname {
+	font-weight:bold;
+	display:inline-block;
+	padding-top:7px;
+	color:#777;
+}
+
+
+.fw_contact_list img {
+	min-width:30px;
+	min-height:30px;
+}
+
+.fw_contact_list .info {
+	display:block;
+	float: left;
+	display: block;
+	width:78%;
+}
+
+.fw_contact_list li .name {
+	display:block;
+	font-size:14px;
+	overflow:hidden;
+	height:22px;
+}
+
+.fw_contact_list li .status_text {
+	display:block;
+	color:#888888;
+}
+
+.fw_contact_list .status {
+	display:inline-block;
+	position:absolute;
+	right:20px;
+	top:18px;
+	height:7px;
+	width:7px;
+	border-radius:50%;
+}
+
+.fw_contact_list .status-1 {
+	background:green;
+}
+
+.fw_contact_list .status-0 {
+	background:#F42C2C;
+}
+
+.fw_contact_list .status-3 {
+ 	background:#8BC34A;
+}
+
+.fw_contact_list .fw_contact_list_set_status {
+	display:block;
+	padding:15px 20px;
+	border-bottom:1px solid #EEE;
+	height:60px;
+}
+
+.fw_contact_list.collapsed .fw_contact_list_set_status {
+	padding:0;
+}
+.fw_contact_list.expanded .fw_contact_list_set_status {
+	padding:15px 20px;
+}
+
+.fw_contact_list .input {
+	padding:5px 10px;
+	outline:0;
+	border:1px solid #D4D1D1;
+	border-radius:3px;
+	width:100%;
+}
+
+.fw_contact_list .fw_contact_list_set_status .input {
+	width:70%;
+}
+
+.fw_contact_list .fw_contact_list_set_status .button {
+	padding:6px 10px;
+	border-radius:3px;
+	background:#0497E5;
+	color:#FFF;
+	border: none;
+	float:right;
+	display:block;
+	width:27%;
+}
+
+.fw_contact_list .fw_contact_list_set_status:after {
+	display:block;
+	content: " ";
+	clear:both;
+}
+
+.fw_contact_list_filter {
+	border-bottom:1px solid #EEE;
+}
+
+.fw_contact_list_filter .button {
+	display:block;
+	padding:20px 20px;
+	text-decoration:none;
+	position:relative;
+	height:60px;
+}
+
+.fw_contact_list_filter .button:hover,
+.fw_contact_list_filter .button:focus {
+	text-decoration:none;
+	background:#EEE;
+}
+
+.expanded .fw_contact_list_filter .icon {
+	display:inline-block;
+	transform:rotate(0deg);
+	color:#0497E5;
+	font-size:14px;
+	position:absolute;
+	right:20px;
+	transition:0.3s;
+}
+
+.fw_contact_list_filter .button.opened .icon {
+	transform:rotate(90deg);
+}
+
+.fw_contact_list_filter ul {
+	display:none;
+	padding:12px 20px;
+}
+
+.fw_contact_list_filter ul li {
+	font-size:14px;
+	padding:8px 0;
+}
+
+.fw_contact_list_filter a {
+  color:#3A3A3A;
+  font-size:14px;
+  padding:10px 0;
+}
+
+.fw_filter_search_field {
+	display:none;
+	padding:20px;
+}

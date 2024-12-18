@@ -1,0 +1,56 @@
+(10.02) 2023-01-24 ALI
+Back-compatibility changes
+
+(10.01) 2023-01-05 ALI
+Multi-tenant account updates
+
+(8.21) 2017-06-15 ALI
+Removed files which are not in use.
+
+(8.20) 2016-10-25 ALI
+Secure DB connection
+
+(8.05) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.04) 2015-10-09 ALI
+Added $s_default_output_language variable and used it for lists
+
+(8.03) 2015-05-29 ALI
+Special character fix in input
+
+(8.02) 2015-05-22 ALI
+Session fix
+
+(8.01) 2015-05-14 ALI
+Window resize after fieldtype changes
+
+(8.00) 2015-03-20 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.175) 2014-10-02 ALI
+Fieldtype version update
+
+(7.174) 2014-09-10 ALI
+Updated CSS
+
+(7.173) 2014-09-09 ALI
+Added multi-language solution
+
+(7.172) 2014-09-08 ALI
+Remove tagrelation on delete
+
+(7.171) 2014-09-03 ALI
+Renamed ajax files not in use xdel_
+
+(7.17) 2014-06-09 ALI
+Added features: rename, merge, move, delete
+
+(7.16) 2013-08-15 ALI
+Updated AccessLevel handle
+
+(7.151) 2013-04-20 ALI
+Updated fieldtype to use popup.
+
+(7.15) 2013-03-26 ALI
+Added type.

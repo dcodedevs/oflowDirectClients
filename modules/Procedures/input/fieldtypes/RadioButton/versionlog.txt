@@ -1,0 +1,38 @@
+(8.04) 2017-06-14 ALI
+Removed files not in use
+
+(8.03) 2015-12-23 PSH
+Updates regarding php shorttags
+
+(8.02) 2015-05-29 ALI
+Special character fix in input
+
+(8.01) 2015-05-22 ALI
+Session fix
+
+(8.00) 2015-03-20 ALI
+****** NEW FRAMEWORK UPDATES
+
+(7.032) 2014-10-02 ALI
+Fieldtype version update
+
+(7.031) 2013-11-21 ALI
+mysql fieldtype changed back to INT
+
+(7.03) 2013-11-14 ALI
+Splited features in Radiobutton and RadiobuttonAdv. This fieldtype stays backcompatible.
+
+(7.02) 2013-09-18 ALI
+Update key:value pair
+
+(7.01) 2013-08-15 ALI
+Updated AccessLevel handle
+
+(6.03) 2012-10-10 ALI
+Fixed floating problem
+
+(6.02) ?
+?
+
+(6.01) 2011-07-05 ALI
+Added type.

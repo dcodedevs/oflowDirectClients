@@ -1,0 +1,3 @@
+<?php
+$prefields = array("id¤id¤{$formText_id_settings}¤moduledata_accountconfig¤ID¤¤¤¤¤1¤0¤0¤0¤0¤0¤¤¤","content_status¤moduledata_accountconfigcontent_status¤{$formText_ContentStatus_input}¤moduledata_accountconfig¤ContentStatus¤¤¤¤¤1¤0¤¤1¤1¤0¤¤¤","name¤moduledata_accountconfigname¤{$formText_Name_accounts}¤moduledata_accountconfig¤Textfield¤¤¤¤¤0¤0¤¤1¤1¤0¤0¤¤","show_after_module¤moduledata_accountconfigshow_after_module¤{$formText_ShowAfterModule_accounts}¤moduledata_accountconfig¤Number¤¤¤¤¤0¤0¤¤1¤1¤0¤0¤¤","deactivated¤moduledata_accountconfigdeactivated¤{$formText_Deactivated_accounts}¤moduledata_accountconfig¤Checkbox¤¤¤¤¤0¤0¤¤1¤1¤0¤0¤¤");
+?>

@@ -1,0 +1,14 @@
+<?php
+$formText_CasesWillExpire_output="";
+$formText_ApprovedToExpire_output="";
+$formText_CaseLimitationDate_output="";
+$formText_CaseId_output="";
+$formText_CreditorName_output="";
+$formText_DebitorName_output="";
+$formText_Send="";
+$formText_UploadInProgress_output="";
+$formText_ErrorOccuredSavingContent_Output="";
+$formText_UpdatingAutomaticallyEachNight_output="";
+$formText_LastUpdate_output="";
+$formText_FillEmptyCaseLimitationDates_Output="";
+?>

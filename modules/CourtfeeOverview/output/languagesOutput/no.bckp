@@ -1,0 +1,29 @@
+<?php
+$formText_CourtFeeInvoicedCreditorInvoiceNr_Output="";
+$formText_Cancel_Output="Avbryt";
+$formText_Save_Output="Lagre";
+$formText_ErrorOccuredSavingContent_Output="En feil oppstod under lagring";
+$formText_YouMissed_validate="Det mangler";
+$formText_field_validate="felt";
+$formText_TheyHaveBeenHighlighted_validate="De er markert";
+$formText_fields_validate="felter";
+$formText_SelectTheCreditor_output="Velg";
+$formText_SelectTheDebitor_output="Velg";
+$formText_ReleaseDate_Output="";
+$formText_NotReleased_output="Ikke frigitt";
+$formText_Released_output="";
+$formText_InvoicingToCreditor_output="";
+$formText_NotInvoiced_output="Skal faktureres";
+$formText_Invoiced_output="Fakturert";
+$formText_CaseId_output="Saksnr";
+$formText_CreditorName_output="Kreditornavn";
+$formText_DebitorName_output="Debitor navn";
+$formText_Type_output="Type";
+$formText_editInvoiceNr_output="";
+$formText_EditReleaseDate_output="";
+$formText_Send="Send";
+$formText_UploadInProgress_output="Opplasting under arbeid";
+$formText_UpdatingAutomaticallyEachNight_output="Oppdateres automtisk hver natt";
+$formText_LastUpdate_output="Sist oppdatert";
+$formText_FillEmptyCaseLimitationDates_Output="Foreldelse dato";
+?>

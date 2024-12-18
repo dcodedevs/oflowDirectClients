@@ -1,0 +1,28 @@
+(8.20) 2016-10-14 ALI
+Secured DB connection
+
+(8.000) 2016-09-20 ALI
+New edition
+
+(7.134) 2014-08-06 ALI
+Restored chat - file upload.
+
+(7.133) 2014-08-04 ALI
+Translated hardcoded text
+
+(7.132) 2014-02-27 ALI
+Fixed contactlist filter change functionality All/other
+
+(7.131) 2014-02-17 ALI
+Added recent conversation list to chat
+
+(7.13) 2014-01-20 ALI
+Removed $_SESSION usage
+
+(7.12) ?
+
+(7.11) 2013-11-26 ALI
+Updated to use local session
+
+(7.10) 2013-10-21 ALI
+Cache output

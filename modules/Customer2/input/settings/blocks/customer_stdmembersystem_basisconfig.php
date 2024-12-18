@@ -1,0 +1,26 @@
+<?php
+$preblocks = array (
+  'id' => 1,
+  'moduleID' => 1,
+  'createdBy' => 1,
+  'created' => 1,
+  'updatedBy' => 1,
+  'updated' => 1,
+  'origId' => 1,
+  'sortnr' => 1,
+  'content_status' => 1,
+  'invitation_subject' => 1,
+  'invitation_greeting' => 1,
+  'invitation_link_text' => 1,
+  'invitation_greeting_footer' => 1,
+  'invitation_signature' => 1,
+  'group_id_or_name' => 1,
+  'access_level' => 1,
+  'module_name' => 1,
+  'content_id_field' => 1,
+  'name_field' => 1,
+  'login_partner_code' => 1,
+  'invitation_text' => 1,
+  'invitation_company_name' => 1,
+);
+?>

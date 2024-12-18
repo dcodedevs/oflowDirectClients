@@ -1,0 +1,445 @@
+.ordersSummary {
+	padding: 10px 15px;
+}
+#output-content-container {
+	position: relative;
+	margin:0px auto;
+	border-radius:3px;
+}
+#out-customer-list {
+}
+#out-customer-list .item-customer {
+	position: relative;
+	margin:10px;
+	padding:10px;
+	border-radius:3px;
+	border:1px solid #D9D6D6;
+}
+#out-customer-list .item-title > div {
+	float:left;
+	font-size:14px;
+	font-weight:bold;
+	width:33%;
+}
+#out-customer-list .item-title > div.out-projectcode {
+	width: auto;
+	margin-right: 10px;
+	width: 20%;
+}
+#out-customer-list .item-title div.out-address {
+	text-align: left;
+	width: 20%;
+}
+#out-customer-list div.merge-input-wrapper {
+	position: absolute;
+	right: 20px;
+	top: 10px;
+	width: auto;
+}
+#out-customer-list  div.merge-input-wrapper input {
+	margin-right: 10px;
+}
+
+#out-customer-list .item-title div.out-ref {
+	text-align: left;
+	width: 20%;
+}
+#out-customer-list .item-order {
+	padding-left:30px;
+}
+#out-customer-list .item-order table.table {
+	margin-bottom:0px;
+}
+#out-customer-list .item-totals span.spacer {
+	font-weight:bold;
+	padding-left:30px;
+}
+#out-customer-list .out-buttons {
+	padding:10px;
+}
+#out-customer-list .out-buttons .totalCost {
+	font-size: 14px;
+	margin-left: 10px;
+}
+#out-customer-list .out-buttons .totalSelectedInvoices {
+	font-size: 14px;
+	margin-left: 10px;
+}
+#out-error-box {
+	padding:10px 10px 0 10px;
+}
+
+#out-error-box .alert.alert-danger,
+.item-error .alert.alert-danger{
+	border-radius:3px;
+	background:#f2dede;
+	border-color:#ebccd1;
+	color: #a94442;
+	box-shadow:none;
+	text-shadow: none;
+}
+
+.item-error .alert.alert-danger {
+	margin:10px 0;
+}
+
+.alert-danger a {
+	color: #a94442;
+	font-weight:bold;
+}
+
+.orderHasError {
+	color:#a94442;
+		background:#f2dede;
+}
+
+#out-info-box {
+	padding:15px 10px 5px 10px;
+}
+
+#out-info-box ul {
+	margin:0;
+	padding:0;
+}
+#out-info-box ul li {
+	display:inline-block;
+	margin-right:20px;
+	font-size:15px;
+}
+#out-info-box ul li .number {
+	font-weight:bold;
+}
+
+
+#out-bank-account-select {
+	padding:15px 10px 5px 10px;
+	font-size:15px;
+}
+
+#out-invoice-date-config {
+	padding:15px 10px 5px 10px;
+}
+
+#out-process-progress {
+	padding:15px;
+	display:none;
+	font-size:15px;
+}
+
+#out-process-progress .progress-title {
+	font-size:18px;
+}
+
+#out-process-progress .progress-bar2 {
+	border-radius:4px;
+	overflow: hidden;
+	width:100%;
+	min-height:25px;
+	background:#F8F8F8;
+	border:1px solid #EEE;
+	margin-bottom:5px;
+}
+#out-process-progress .progress-bar2-fill {
+	width:0;
+	min-height:25px;
+	background:#27ae60;
+}
+
+.out-select-all {
+	font-size:15px;
+	padding:5px 15px;
+	float: left;
+}
+.adjustPriceWrapper {
+	float: left;
+	font-size: 15px;
+	padding:5px 5px;
+}
+.adjustPriceWrapper input {
+	margin-left: 5px;
+	width: 25px;
+}
+.edit_adjustment_percent {
+	margin-left: 5px;
+	color: #46b2e2;
+	cursor: pointer;
+}
+.ownercompaniesSelectWrapper {
+	position: absolute;
+	right: 15px;
+	top: 10px;
+}
+.p_pageDetails {
+	border:1px solid #cecece;
+	border-bottom:none;
+	/*padding:10px;*/
+}
+.p_pageDetailsTitle {
+	font-size:14px;
+	font-weight:bold;
+	padding:10px 15px;
+	background-color:#f4f4f4;
+	border-bottom:1px solid #cecece;
+}
+.p_contentBlock {
+	background: #FFF;
+	padding:15px;
+	border-bottom:1px solid #cecece;
+}
+.invoiceSendersTitle {
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+.dividerLine {
+	margin: 2px 0px;
+	border-top: 1px solid #cecece;
+}
+.old {
+	text-decoration: line-through;
+	margin-right: 10px;
+}
+.tipPopup {
+	position:relative;
+	border-style:solid;
+	border-width:1px;
+	border-color:#000000;
+	background-color: #FFFFFF;
+	color:#000000;
+	font-size:9px;
+	font-family:Verdana;
+	width:300px;
+	left:30px;
+	top:0px;
+	text-align:left;
+	padding:3px;
+}
+#popupeditbox,
+#popupeditbox2 {
+	background-color:#FFFFFF;
+	border-radius:4px;
+	color:#111111;
+	display:none;
+	padding:25px 25px 35px;
+	width:700px;
+}
+#popupeditbox .button,
+#popupeditbox2 .button {
+	background-color:#0393ff;
+	color:#fff;
+	cursor:pointer;
+	display:inline-block;
+	padding:10px 20px;
+	text-align:center;
+	text-decoration:none;
+}
+#popupeditbox .button:hover,
+#popupeditbox2 .button:hover {
+	background-color:#1e1e1e;
+}
+#popupeditbox .button.b-close,
+#popupeditbox .button.bClose,
+#popupeditbox2 .button.b-close,
+#popupeditbox2 .button.bClose {
+	position:absolute;
+	border: 3px solid #fff;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	border-radius: 100px;
+	padding: 0px 9px;
+	font: bold 100% sans-serif;
+	line-height: 25px;
+	right:-10px;
+	top:-10px
+}
+#popupeditbox .button > span,
+#popupeditbox2 .button > span {
+	font: bold 100% sans-serif;
+	font-size: 12px;
+	line-height: 12px;
+}
+.popupformTitle {
+	font-size: 24px;
+	padding: 0px 0px 10px;
+	border-bottom: 1px solid #ededed;
+	color: #5d5d5d;
+	margin-bottom: 15px;
+}
+.popupformname {
+	font-size:12px;
+	font-weight:bold;
+	padding:5px 0px 5px 0px;
+}
+.popupforminput .selectDiv {
+	border: 0;
+}
+input.popupforminput {
+	font-size:12px;
+	font-weight:normal;
+	border:1px solid #CCCCCC;
+	width:100%;
+}
+select.popupforminput {
+	font-size:12px;
+	font-weight:normal;
+	border:1px solid #CCCCCC;
+	width:100%;
+}
+textarea.popupforminput {
+	font-size:12px;
+	font-weight:normal;
+	height:200px;
+	border:1px solid #CCCCCC;
+	width:100%;
+}
+input.popupforminput.checkbox {
+	width: auto;
+}
+.popupformheader {
+	color: #000000;
+	font-size: 24px;
+	padding:5px 0px 5px 0px;
+}
+.popupformdesc {
+	color: #000000;
+	font-size: 12px;
+	padding-bottom:10px;
+}
+.popupformbtn input {
+	border:1px solid #cccccc;
+	height:20px;
+	line-height:normal;
+	padding:0px 10px 0px 10px;
+}
+.output-btn {
+	display:inline-block;
+	padding:3px 6px;
+	border-radius:3px;
+	border:1px solid #46b2e2;
+	color:#46b2e2;
+	background:none;
+	outline:0;
+	margin-left:10px;
+	float:none;
+}
+.output-btn.b-large {
+	border-radius:4px;
+	font-size:13px;
+	line-height:0px;
+	padding: 20px 35px;
+	font-weight:700;
+}
+.output-btn.red {
+	color:#ffffff;
+	border:1px solid #eb3a03;
+	background-color:#f35403;
+}
+.output-btn.blue {
+	color:#ffffff;
+	border:1px solid #068ad1;
+	background-color:#03a1f3;
+}
+.output-btn:focus,
+.output-btn:active,
+.output-btn:hover {
+	border:1px solid #0284C9;
+	color:#0284C9;
+}
+.output-btn.red:focus,
+.output-btn.red:active,
+.output-btn.red:hover {
+	border:1px solid #999999;
+	color:#efefef;
+}
+.output-btn.blue:focus,
+.output-btn.blue:active,
+.output-btn.blue:hover {
+	border:1px solid #999999;
+	color:#efefef;
+}
+.periodizationLabel {
+	position: relative;
+	cursor: pointer;
+}
+.periodizationHover {
+	display: none;
+	position: absolute;
+	top: -5px;
+	right: -110px;
+	width: 100px;
+	background: #fff;
+	border: 1px solid #cecece;
+	padding: 3px 5px;
+}
+.periodizationLabel:hover .periodizationHover {
+	display: block
+}
+.editInvoiceDates {
+	cursor: pointer;
+	margin-left: 10px;
+	color: #46b2e2;
+	margin-right: 10px;
+}
+
+.p_headerLine {
+	min-height: 44px;
+	position:relative;
+	padding:15px 17px 16px 22px;
+	border-bottom:1px solid #e8e8e8;
+	font-size:13px;
+	font-weight: 700;
+	background:#FFF;
+}
+.p_headerLine .btnStyle {
+	float:left;
+	cursor:pointer;
+	margin-left:20px;
+}
+.plusTextBox {
+	color:#46b2e2;
+	position:relative;
+	float:right;
+	display:none;
+}
+.plusTextBox.active {
+	display:block;
+}
+.plusBox {
+	position:absolute;
+	width:12px;
+	height:12px;
+	top:5px;left:-18px;
+}
+.plusBox .lineV {
+	position:absolute;
+	top:0;left:5px;
+	width:2px;
+	height:12px;
+	background-color:#46b2e2;
+}
+.plusBox .lineH {
+	position:absolute;
+	top:5px;left:0;
+	width:12px;
+	height:2px;
+	background-color:#46b2e2;
+}
+.plusBox .lineHT {
+	position:absolute;
+	top:0;left:0;
+	width:12px;
+	height:2px;
+	background-color:#46b2e2;
+}
+.plusBox .lineHB {
+	position:absolute;
+	bottom:0;left:0;
+	width:12px;
+	height:2px;
+	background-color:#46b2e2;
+}
+.plusBox.addres {
+    top: 4px;
+}
+.plusBox.addNew {
+	top:0;left:0;
+}

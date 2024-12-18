@@ -1,0 +1,31 @@
+<?php
+$formText_ErrorOccurredHandlingRequest_Output="En feil oppstod";
+$formText_NextRun_Output="Neste kjøring";
+$formText_Cancel_Output="Avbryt";
+$formText_Save_Output="Lagre";
+$formText_ErrorOccuredSavingContent_Output="En feil oppstod under lagring";
+$formText_YouMissed_validate="Det mangler";
+$formText_field_validate="felt";
+$formText_TheyHaveBeenHighlighted_validate="De er markert";
+$formText_fields_validate="felter";
+$formText_AvailableAutoTasks_Output="Tilgjengelige atuotasks";
+$formText_Add_Output="Legg til";
+$formText_Idle_Output="Idle";
+$formText_Queue_Output="Kø";
+$formText_Running_Output="Kjører";
+$formText_Stopped_Output="Stoppet";
+$formText_LastRun_Output="Siste kjøring";
+$formText_Status_Output="Status";
+$formText_Edit_Output="Rediger";
+$formText_Delete_Output="Slett";
+$formText_AreYouSureYouWantToDeleteItem_output="Ønsker du å slette";
+$formText_AddNew_Output="Legg til";
+$formText_ActiveOrders_output="Aktive ordre";
+$formText_OnHoldOrders_output="Repeterende ordre på pause";
+$formText_DeliveredOrders_output="Leverte ordre";
+$formText_FinishedOrders_output="Ferdige ordre";
+$formText_DeletedProjectOrders_output="Slettede prosjektordre";
+$formText_ResponsiblePerson_output="Ansvarlig person";
+$formText_All_output="Alle";
+$formText_Search_output="Søk";
+?>
